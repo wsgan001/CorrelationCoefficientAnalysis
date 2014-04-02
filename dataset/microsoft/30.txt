@@ -1,0 +1,43 @@
+Microsoft loses U.S. top court case on patent
+
+The U.S. Supreme Court ruled against Microsoft Corp on Thursday, rejecting its appeal of a record $290 million jury verdict for infringing a small Canadian software firm's patent.
+
+The justices unanimously upheld a U.S. appeals court ruling that went against the world's largest software company in its legal battle with Toronto-based i4i.
+
+The high court rejected Microsoft's argument to adopt a lower standard to replace the long-standing requirement that a defendant in a patent infringement case prove by clear and convincing evidence that a plaintiff's patent is invalid.
+
+Redmond, Washington-based Microsoft argued that a lower standard of proof involving a "preponderance of the evidence" would make some patents more vulnerable to legal challenge while promoting innovation and competition.
+
+Justice Sonia Sotomayor said the court rejected Microsoft's contention that a defendant need only persuade a jury of a patent invalidity defense by a preponderance of the evidence.
+
+When the U.S. Congress has prescribed the governing standard of proof, its choice generally controls, she said in the 20-page opinion.
+
+The Obama administration and i4i opposed Microsoft's position and said Congress had accepted the standard in effect for at least the past 28 years, that it was correct, and that it should be upheld by the Supreme Court.
+
+I4i said Microsoft sought a radical change in patent law and that any change should come from Congress, which has been considering patent legislation.
+
+The legal battle began in 2007 when i4i sued Microsoft. A federal jury awarded $290 million to i4i after finding that Microsoft, in 2003 and 2007 versions of Word, its word processing application, had infringed i4i's patent relating to text manipulation software.
+
+A U.S. appeals court upheld the award, and the U.S. Patent and Trademark Office upheld the validity of the i4i patent.
+
+Microsoft continued to dispute those decisions, but removed the contested features from its current software.
+
+In appealing to the Supreme Court, Microsoft said it wanted a new trial. But the justices ruled that the appeals court was correct.
+
+Microsoft has said it is the largest patent infringement verdict ever affirmed on appeal.
+
+UP TO CONGRESS TO CHANGE STANDARD OF PROOF
+
+Sotomayor said the court also rejected Microsoft's argument that a preponderance standard must at least apply where the evidence before the factfinder was not before the Patent and Trademark Office during the examination process.
+
+She said the court was not judging the wisdom of the clear-and-convincing-evidence standard that Congress adopted.
+
+During nearly 30 years the standard has been used, Sotomayor said, Congress has often amended the patent laws, but apparently never considered any proposal to lower the standard of proof.
+
+Sotomayor said Congress has left the standard in place, despite criticism of it from the federal government and from outside the government. Any change remains up to Congress, she concluded.
+
+Google Inc, Yahoo Inc and trade groups such as the Computer & Communications Industry Association supported Microsoft, while Bayer AG, 3M Co and groups representing biotechnology companies and pharmaceutical manufacturers backed i4i.
+
+The case was decided by eight of the nine Supreme Court members. Chief Justice John Roberts, who owns Microsoft stock, recused himself from the case.
+
+The Supreme Court case is Microsoft Corp v. i4i Limited Partnership and Infrastructures for Information Inc, No. 10-290.

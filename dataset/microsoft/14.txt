@@ -1,0 +1,19 @@
+Microsoft loses patent case in Supreme Court
+
+A unanimous U.S. Supreme Court refused to toss out a lower-court ruling against the software giant. And that means it has to pay $290 million to a small Canadian company over some features in Microsoft Word. Microsoft argued the patent in question should never have been issued. Marketplace's Jeff Horwich reports.
+
+Jeff Horwich: The software company i4i sued Microsoft in 2007. Microsoft's response was that i4i's patent itself was bad -- should never have been issued in the first place, because the technology was already in use. For the Supreme Court, the critical question was how much evidence Microsoft needed to make that case.
+
+Megan La Belle teaches patent law at Catholic University.
+
+    Megan La Belle: What Microsoft was hoping the Supreme Court would do is lower the standard, which would mean that a challenger would only have to prove that it was more likely than not that the patent was invalid.
+
+The court said no: only Congress can lower that standard. Now, Microsoft was cast in its familiar role as the technology-stealing heavy. But La Belle says the case highlights a real problem.
+
+    La Belle: When you have rules like this that discourage parties from challenging potentially invalid patents, that means that consumers pay higher prices because the patent owner has a monopoly on that invention for a limited amount of time.
+
+An invalid patent unfairly limits access to technology. And mistakes do happen. Patent attorney Peter Zura says the U.S. Patent and Trademark Office is underfunded and overloaded.
+
+    Peter Zura: There's only so much that they can look at at one time. And now it's not just the U.S. companies that are filing -- you've got all these Chinese companies, Japanese companies, Europeans. Everybody's got the filing bug.
+
+Updating the rules to undo a bad patent is one measure lawmakers could address in the patent reform bill now in Congress.

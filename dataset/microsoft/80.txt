@@ -1,0 +1,39 @@
+$290 Million Judgment on Microsoft in Patent Dispute with I4i
+
+A four-year-old patent dispute ended in Microsoft's defeat. The international tech giant now owes $290 million to a small Canadian firm.
+
+I4i, a small Toronto-based developer charged Microsoft in 2007 for illegally using a patented XML editing technology in Microsoft Word 2003 and 2007, the company's word-processing software package. Microsoft Word has become a gold standard for documents, having sold millions of copies since its release in the early 1980s.
+
+Microsoft counterclaimed the alleged infringement using i4i's own software as on-sale evidence that i4i was not entitled to a patent, as the United States patent law states that if an invention has been for sale for over one year, it is no longer patentable.
+
+By the time the case came to trial the source code had been destroyed making the patent's inventors the only one who can give evidence to whether the software practiced the method in the patent. Surprisingly, the inventors stated that the software did not practice the claimed invention. 
+
+Microsoft then claimed that the absence of the software from the patent examination made it unnecessary for Microsoft to prove that it could act as an on-sale bar with "clear and convincing evidence", which means evidence that is highly and substantially likely to be true. Instead, Microsoft, along with the host of companies that had backed it, including Apple, Cisco and Facebook,  requested for a much lower standard of "preponderance of the evidence" standard, which requires "51% likely, or More likely than not, to be true."
+
+In August 2009, the court rejected Microsoft's approach, finding Microsoft infringed the i4i patent. Microsoft was permanently enjoined from selling versions of Word that contained certain XML functionality that was found to infringe the patent.
+
+The Federal Circuit granted Microsoft an expedited appeal, pending hearing of the appeal. The Circuit affirmed the Court's decision, and Microsoft eventually filed for certiorari (an order by which a higher court reviews a decision of a lower court) to the Supreme Court.
+
+The Supreme Court affirmed lower court decisions, rejecting Microsoft's contention. 
+
+Two questions were asked by Microsoft's brief;
+
+    * Is the standard for using invalidity as a defense to infringement "clear and convincing" or "preponderance of the evidence?"
+
+    *  when prior art is being offered to invalidate the patent, and that prior art was not shown to the patent examiner while the patent was undergoing examination, is the standard "clear and convincing" or "preponderance of the evidence?"
+
+The first question was answered with a majority agreeing a "patent should be presumed valid", and that "the burden of establishing invalidity of a patent ... shall rest on the party asserting such invalidity," according to IP Brief. The majority found that Congress meant this burden to be "heavy." For the second question, the majority notes that until this case, courts applied the "clear and convincing" standard to all evidence. While a patent's presumption of validity can be "weakened" or "dissipated" when certain prior art is not before the Office, it does not lower the standard required to invalidate it, IP Brief stated.
+
+While the law did not expressly specify a standard of proof, Justice Sonia Sotomayor, writing for the court, said Congress must have codified the general understanding about the appropriate standard, one reflected in a 1934 Supreme Court decision, according to the New York Times.
+
+In short, the standard Microsoft claimed to be too high was declared by the Court as rightfully high.
+
+Microsoft was charged $290 million, as well as the bar of sales of Microsoft Word versions alleged to infringe the patent.
+
+The decision gives a lesson to companies challenging patents being used in court battles will be required to provide convincing proof of the patent being invalid.
+
+One side effect of the case is its influence on Microsoft's customers who had copies of Word licensed after the injunction, as all custom XML were removed from their Word documents when they were opened for the first time. The lost data were recovered by i4i, costing the customers $249.99.
+
+Microsoft said it was disappointed in the ruling. "While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system," a company spokesman said in a statement, according to the Wall Street Journal.
+
+I4i, in its website, introduces itself as "a world leader in the design and development of collaborative content solutions and technologies. Founded in 1993 by Michel Vulpe, the Company has a proven record of accomplishment and innovation. With its partners, i4i has successfully developed and deployed collaborative content solutions to customers in industry and government around the world."

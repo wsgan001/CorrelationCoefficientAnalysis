@@ -1,0 +1,29 @@
+Microsoft must pay in US patent case 
+
+THE Supreme Court ruled that Microsoft must pay a $US290 million ($273m) judgement awarded to a small Toronto software company for infringing on one of its patents inside its popular Microsoft Word program.
+
+The high court unanimously refused to throw out the judgment against the world's largest software maker.
+
+Toronto-based i4i sued Microsoft in 2007, saying it owned the technology behind a tool used in Microsoft Word. The technology in question gave Word 2003 and Word 2007 users an improved way to edit XML, which is computer code that tells the program how to interpret and display a document's contents.
+
+The lower courts say Redmond, Washington-based Microsoft wilfully infringed on the patent, and ordered the world's largest software maker to pay i4i $US290m and stop selling versions of Word containing the infringing technology.
+
+Microsoft wanted the multimillion dollar judgment against it erased because it claims a judge used the wrong standard in instructing the jury that came up with the award.
+
+The software company said a jury should determine whether a patent is invalid by a "preponderance" of the evidence instead of the more heightened "clear and convincing" evidence standard instructed by the judge.
+
+The Supreme Court said the "clear and convincing" standard was the correct one.
+
+Justice Sonia Sotomayor, who wrote the court's opinion, said the courts have interpreted the law the same way for 30 years. During this period, Congress has often amended the patent law, she said.
+
+"Not once, so far as we (and Microsoft) are aware, has it even considered a proposal to lower the standard of proof," Sotomayor said.
+
+Microsoft now sells versions of Word that do not contain the technology in question.
+
+"While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation," the company said in a statement.
+
+Officials at i4i cheered the ruling.
+
+"Microsoft tried to gut the value of patents by introducing a lower standard for invalidating patents," said Loudon Owen, chairman of i4i. "It is now 100 per cent clear that you can only invalidate a patent based on 'clear and convincing' evidence."
+
+Chief Justice John Roberts did not take part in the consideration or judgment in this case because he owns Microsoft stock.

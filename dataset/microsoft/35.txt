@@ -1,0 +1,19 @@
+US Supreme Court Affirms $290M Judgment Vs Microsoft 
+
+WASHINGTON (Dow Jones)--The U.S. Supreme Court Thursday upheld a $290 million patent-infringement verdict against Microsoft Corp. (MSFT), rejecting the software titan's bid to make it harder for companies to bring patent claims against it.
+
+Microsoft had appealed to the high court in a case involving its popular Word software program, arguing that a Toronto technology company, i4i Inc., shouldn't have won a jury verdict regarding a patent claim related to document editing. I4i obtained a $290 million judgment against Microsoft, as well as an injunction that barred sales of certain versions of Word said to infringe the patent.
+
+The Supreme Court, in an 8-0 ruling, said a challenge to a patent claim "requires an invalidity defense to be proved by clear and convincing evidence." Justice Sonia Sotomayor, writing the main opinion, said that Congress set the standard in a 1952 patent law and that any "calibration of the standard of proof remains in its hands."
+
+Microsoft said it was disappointed in the ruling. "While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system," a company spokesman said in a statement.
+
+The case had split the business community, with drug makers and manufacturers such as 3M Co. (MMM) and Johnson & Johnson (JNJ) arguing that the patent-law change sought by Microsoft would harm innovation by inventors. Technology companies, however, face a stream of lawsuits involving patent claims, prompting Google Inc. (GOOG), Verizon Communications Inc. (VZ) and others to back Microsoft's bid before the high court that would make it harder for third-party patent holders to sue successfully.
+
+The case centers on a 2007 lawsuit by i4i, which convinced a jury that Microsoft Word infringed one of its patents related to document editing. A federal appeals court upheld the $290 million judgment, rejecting Microsoft's argument that the patent was invalid because the i4i invention wasn't new. The Supreme Court affirmed that holding.
+
+Microsoft said it complied with the injunction without suspending sales of Word by modifying the products. Word 2010, a newer version of the software, doesn't contain the technology at issue, the company has said.
+
+Sotomayor wrote the majority opinion, which was joined by six other justices. Justice Clarence Thomas supported the outcome but wrote a separate opinion to explain his alternative reasoning. Chief Justice John Roberts Jr. didn't participate in the case.
+
+The case is Microsoft Corp. v. i4i Limited Partnership, 10-290. 

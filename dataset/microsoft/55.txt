@@ -1,0 +1,37 @@
+US top court rules against Microsoft in patent case
+
+WASHINGTON ¡X The US Supreme Court upheld a $290 million patent infringement verdict against US software giant Microsoft on Thursday in a closely watched case brought by a small Canadian company.
+
+Toronto-based i4i Inc. sued the Redmond, Washington-based Microsoft in March 2007, claiming that some versions of popular Word software violated patent rights it held to XML technology.
+
+In December 2009, a US Court of Appeals upheld a jury verdict and lower court ruling in the case, ordering Microsoft to pay over $290 million in damages to i4i.
+
+Microsoft was accused of infringing on a 1998 XML patent in its Word 2003 and Word 2007 programs. Word uses XML, or Extensible Markup Language, to open .XML, .DOCX, and .DOCM files.
+
+Microsoft had wanted defendants in infringement cases to be able to prove a patent invalid by showing a "preponderance of evidence," rather than the tougher standard of "clear and convincing evidence" to which it was held.
+
+The Supreme Court disagreed and unanimously upheld the appeals court ruling on Thursday.
+
+In a statement following the ruling, Microsoft said it would continue to seek to change the law.
+
+"This case raised an important issue of law which the Supreme Court itself had questioned in an earlier decision and which we believed needed resolution," a Microsoft spokesman said.
+
+"While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation," he said.
+
+Loudon Owen, the chairman of i4i, welcomed the Supreme Court ruling in a case he said represented "one of the most important decisions in business law by the US Supreme Court in decades."
+
+"The reason is that what was in the balance here, what was at risk, is the whole patent system... Whether or not when you get a patent you have something of value and you can enforce it," he told AFP.
+
+"The Supreme Court came down unanimously in confirming and supporting the existing patent system," he said. "Had it gone the other way it would have devastated innovation in the US."
+
+Owen said an injunction which came into effect in January 2010 forbids Microsoft from using the technology without a license.
+
+Asked whether he anticipated licensing discussions with Microsoft, Owen said: "We're not really talking about the future. We're just dealing with the present."
+
+While i4i praised the ruling, it was denounced by the Computer and Communications Industry Association (CCIA).
+
+"We are facing a firehose of low-quality patents that makes it impossible to know who owns what," CCIA president and chief executive Ed Black said in a statement.
+
+"It?s getting worse. Any successful product, like smartphones, has become a target for patent attacks, whether by losers in the market or opportunists," he said.
+
+"The winners are patent attorneys, who must be dancing in the streets today," Black said. "The losers are innovators who find the value of good patents diluted -- and a blizzard of low-quality patents blocking even routine attempts to innovate."

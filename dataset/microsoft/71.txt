@@ -1,0 +1,49 @@
+Microsoft, Apple, Mohawk, Nu-Image: Intellectual Property
+
+June 10 (Bloomberg) -- The U.S. Supreme Court upheld a patent-infringement verdict that will cost Microsoft Corp. $300 million and already has forced changes in its Word software.
+
+The justices yesterday unanimously rejected calls from Microsoft and its allies, including Apple Inc. and Google Inc., to overturn the award and make some patents more vulnerable to legal challenge.
+
+The ruling is a victory for closely held I4i LP, which claimed in its 2007 lawsuit that its patented technology had been incorporated into Word, the word-processing program used by 500 million people. The award is the largest ever upheld on appeal in a patent case.
+
+Microsoft, which had $5.2 billion in profit in the first quarter of 2011, hasn't yet paid I4i any damages.
+
+"While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation," said Kevin Kutz, a Microsoft spokesman, in an e-mail.
+
+Microsoft contended that the disputed patent was based on technology already in the marketplace. The question for the Supreme Court was whether, as a lower court concluded, Microsoft needed to make that showing by "clear and convincing" evidence to overcome the longstanding presumption that patents approved by the U.S. Patent and Trademark Office are valid.
+
+Microsoft argued that a less-demanding standard should apply when a jury is presented with evidence about pre-existing technology that the patent examiner didn't consider.
+
+Writing for the Supreme Court, Justice Sonia Sotomayor said that the clear-and-convincing standard is a decades-old rule that Congress has repeatedly declined to revisit.
+
+"Any recalibration of the standard of proof remains in its hands," Sotomayor said.
+
+The case is Microsoft v. I4i Limited Partnership, 10-290.
+
+For more, click here.
+
+Apple Seeks Patent on Movie-Finding Application for IPhone
+
+Apple Inc., maker of the iPad and iPhone, applied for a patent on a technology that will make it easier for an iPhone user to find a movie at the right time and place.
+
+Application 20110137690, published in the database of the U.S. Patent and Trademark Office yesterday, covers an application for an electronic device that can search variables before presenting movie information.
+
+The variables include geographic proximity of the theater, the show start time closest to the current time of day, show finish time, and traffic conditions, according to the application. The variables also could be factored into use of the mobile electronic device to buy tickets for the movie or other event.
+
+Apple, based in Cupertino, California, applied for the patent in December 2009. No outside counsel is named in the application.
+
+For more patent news, click here.
+
+Copyright
+
+Mohawk Seeks Declaration of Non-Infringement of Rug Design
+
+Mohawk Industries Inc., a rug manufacturer based in Calhoun, Georgia, asked a federal court to declare it isn't infringing the copyright of a Maine-based design and licensing company.
+
+In the complaint filed June 7 in federal court in Atlanta, Mohawk said it received notice from counsel for Angela Adams Licensing LLC that one of its carpets is "substantially similar" to an Adams design.
+
+Included in the court filing is a letter from Margaret Minister O'Keefe of Portland, Maine's Pierce Atwood, suggesting that any potential dispute can be resolved amicably.
+
+Mohawk's response to that letter, also included in the court filing, was sent by Michael D. Hobbs Jr. of Atlanta's Troutman Sanders LLP. Mohawk "takes Angela Adams' claims seriously" and carefully analyzed her design and the design of the carpet that allegedly infringes, he said.
+
+Read more: http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2011/06/10/bloomberg1376-LMJF0O07SXKX01-4HMB3EEGL3KK170RIR4K4662BT.DTL#ixzz1PUqG2IOL

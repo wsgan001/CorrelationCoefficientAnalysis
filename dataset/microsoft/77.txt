@@ -1,0 +1,47 @@
+Microsoft loses U.S. Supreme Court case on patent
+
+Microsoft Corp suffered a defeat on Thursday when the U.S. Supreme Court upheld a record $290 million jury verdict against the software giant for infringing a small Canadian company's patent.
+
+The justices unanimously agreed with a U.S. appeals court ruling that went against the world's largest software company in its legal battle with Toronto-based i4i.
+
+The high court refused to adopt Microsoft's lower standard to replace the long-standing requirement that a defendant in a patent infringement case prove by clear and convincing evidence that a plaintiff's patent is invalid.
+
+Redmond, Washington-based Microsoft had argued that a lower standard of proof involving a "preponderance of the evidence" would make some "bad" patents easier to invalidate while promoting innovation and competition.
+
+Justice Sonia Sotomayor, who wrote the opinion, said the court rejected Microsoft's contention that a defendant need only persuade a jury of a patent's invalidity by a preponderance of the evidence.
+
+When the U.S. Congress has prescribed the governing standard of proof, its choice generally controls, she said.
+
+The Obama administration and i4i opposed Microsoft's position and said Congress had accepted the standard in effect for the past 28 years and the Supreme Court should uphold it.
+
+The legal battle began in 2007 when i4i sued Microsoft. A federal jury awarded $290 million to i4i after finding that Microsoft, in 2003 and 2007 versions of Word, its word processing application, had infringed i4i's patent relating to text manipulation software.
+
+A U.S. appeals court upheld the award, and the U.S. Patent and Trademark Office upheld the validity of the i4i patent.
+
+Microsoft continued to dispute those decisions, but removed the contested features from its current software.
+
+In appealing to the Supreme Court, Microsoft said it wanted a new trial. But the justices ruled against Microsoft.
+
+The case is not entirely over, however, since Microsoft also has a challenge to the patent pending at the patent office and may have to pay other potential licensing fees, said Michel Vulpe, i4i's founder and chief technology officer.
+
+"We're very pleased that the court did the right thing," and that the decision was unanimous, Vulpe told Reuters.
+
+SIGNIFICANT BUSINESS CASE
+
+Loudon Owen, i4i's chairman, said in a statement, "This is one of the most significant business cases the court has decided in decades."
+
+Microsoft has said it is the largest patent infringement verdict ever affirmed on appeal. It has also said it had set aside money for the verdict, so it was not material to its earnings.
+
+"While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation," Microsoft spokesman Kevin Kutz said in an email statement.
+
+Max Grant, a patent law attorney at Latham & Watkins, said that by upholding the status quo "the Supreme Court wisely left alone a complex area of the law that balances many competing interests."
+
+Microsoft's share price dipped when the decision was announced but quickly recovered and was little changed at $23.93 in afternoon trade.
+
+Sotomayor wrote that any decision to change the standard in patent infringement cases would have to come from Congress. She noted that the standard of clear and convincing evidence was almost 30 years old and had been left untouched during previous congressional patent system reforms.
+
+Google Inc (GOOG.O), Yahoo Inc (YHOO.O) and trade groups such as the Computer & Communications Industry Association supported Microsoft, while Bayer AG (BAYGn.DE), 3M Co (MMM.N) and groups representing biotechnology companies and pharmaceutical manufacturers backed i4i.
+
+The case was decided by eight of the nine Supreme Court members. Chief Justice John Roberts, who owns Microsoft stock, recused himself from the case.
+
+The Supreme Court case is Microsoft Corp v. i4i Limited Partnership and Infrastructures for Information Inc, No. 10-290.

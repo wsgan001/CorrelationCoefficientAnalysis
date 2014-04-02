@@ -1,0 +1,23 @@
+Microsoft loses US Supreme Court patent appeal
+
+The U.S. Supreme Court on Thursday upheld a record $290 million jury verdict against Microsoft for infringing a small Canadian company's patent.
+
+The justices unanimously agreed with a U.S. appeals court ruling that went against the world's largest software company in its legal battle with Toronto-based i4i.
+
+The case began in 2007 when i4i sued Microsoft saying it owned the technology behind a text manipulation tool used in Microsoft's Word application, which gave Word 2003 and Word 2007 users an improved way of using a document's contents.
+
+In 2009, the U.S. District Court for the Eastern District of Texas ruled in i4i's favor and ordered Microsoft to stop selling versions of Word containing the infringing technology. Microsoft removed the feature in order to keep selling its software. 
+
+The suit eventually made it to the Supreme Court. Microsoft challenged the patent process and how evidence about it is presented in court.
+
+The US courts usually require ¡§clear and convincing¡¨ standard under which patent holders publicly disclose information in exchange for a temporary monopoly over the patented product. Microsoft argued that a lower standard of proof involving a "preponderance of the evidence" would make some "bad" patents easier to invalidate while promoting innovation and competition.
+
+However, the Supreme Court upheld the lower court decision, saying that "clear and convincing" standard was the correct one.
+
+Justice Sonia Sotomayor wrote that any decision to change the standard in patent infringement cases would have to come from Congress. She noted that the standard of clear and convincing evidence was almost 30 years old and had been left untouched during previous congressional patent system reforms.
+
+"While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation," Microsoft spokesman Kevin Kutz said.
+
+¡§It was unanimous. That was striking. It is one of the more important business law decisions made by the Supreme Court in decades and it's a watershed moment for patents," i4i's Chairman Loudon Owen said.
+
+

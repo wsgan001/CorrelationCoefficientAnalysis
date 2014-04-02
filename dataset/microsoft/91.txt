@@ -1,0 +1,30 @@
+Ruling on Microsoft averts IP community crisis
+
+A ruling that forces Microsoft Corp. to pay up $290 million isn't really bad news for the software giant as it has a $40 billion cash pile.  Just recently it paid $8.5 billion in cash to acquire Internet telephone service Skype Technologies SA, a company that did not even make a profit last year.
+
+On June 9, the U.S. Supreme Court, by unanimous decision, upheld a $290 million jury verdict against Microsoft for willfully infringing a patent of a small Canadian firm.  The case can be depicted as a classic David vs. Goliath or can be a plot to a John Grisham novel.  However, what's more significant -- in the area of intellectual property law -- is that the Supreme Court has settled the issue of whether a lower standard can be used to invalidate patents.
+
+A small Canadian firm, i4i Limited Partnership and Infrastructures for Information Inc., has a patent which governs the use of software that can open documents with XML.  The patent claims an improved method for editing computer documents, which stores a document's content separately from the metacodes associated with the document's structure.  In 2007, i4i sued Microsoft for willful infringement, claiming that certain custom XML technology in Microsoft Word 2003 and 2007 infringed i4i's patent. 
+
+Microsoft denied the claims.  It countered that i4i's patent was invalid and unenforceable.  Microsoft noted that i4i had filed its patent more than a year after the technology was already on the market, which would make the patent invalid pursuant to on-sale bar under Section 102b of the Patent Act.  Microsoft pointed to i4i's prior sale of a software program known as S4.
+
+A jury found that Microsoft willfully infringed the i4i patent and that Microsoft failed to prove invalidity due to the on-sale bar or otherwise.  The Court of Appeals for the Federal Circuit upheld the jury award in the district court.  The case was later sent for review to the U.S. Supreme Court.
+
+The Supreme Court, in an 8-0 ruling, affirmed lower court decisions.  
+
+Associate Justice Sonia Sotomayor, who wrote the opinion, said the Supreme Court also rejected Microsoft's contention that it only needs to persuade a jury of a patent's invalidity by a "preponderance of evidence."  The Windows operating system developer said using this lower standard of proof would make some "bad" patents easier to invalidate while promoting innovation and competition.
+Sotomayor noted that the first paragraph of the Section 282 of the Patent Act of 1952 provides that "[a] patent shall be presumed valid" and "[t]he burden of establishing invalidity of a patent or any claim thereof shall rest on the party asserting such invalidity."
+
+Sotomayor added the common understanding of this part of the law in the Federal Circuit since 1984 was a defendant raising an invalidity defense bore "a heavy burden of persuasion," requiring proof of the defense by clear and convincing evidence.  The common-law presumption, in other words, reflected the universal understanding that a preponderance standard of proof was too "dubious" a basis to deem a patent invalid.
+
+With the case ruled with finality, Microsoft is now forced to pay the $290 million jury verdict to I4i. "While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation," a spokesperson for Microsoft said.
+
+Loudon Owen, i4i's chairman, said, "This is one of the most significant business cases the court has decided in decades."
+
+According to The Wall Street Journal, the Microsoft case had split the business community, with drug makers and manufacturers such as 3M Co. and Johnson & Johnson arguing that the patent-law change sought by Microsoft would harm innovation by inventors.  Technology companies, however, face a stream of lawsuits involving patent claims, prompting Google Inc., Verizon Communications Inc. and others to back Microsoft, the Journal said.
+
+The case has significant ramifications for the technology sector, said patent lawyer Barry Sookman of McCarthy Tetrault in Toronto, according to reporting by The Globe and Mail.  Had the court sided with Microsoft, the U.S. patent system would have undergone a major shift.
+
+According to reporting by Computer World, legal experts say that the ruling is also a "small victory" for Microsoft.  "If the goal was to make it easier to invalidate patents, Microsoft moved the ball forward," said David Young, a partner at Dow Lohnes with 15 years of patent litigation experience.  The most significant outcome of the case, said Young, was language in the opinion by Sotomayor that spelled out how patent case juries can be instructed.  In her opinion, Sotomayor said that juries can be told to consider evidence that the U.S. Patent and Trademark Office [USPTO] did not evaluate before granting a patent.
+
+A patent overhaul bill, the America Invents Act, was passed the Senate in March and is pending in the House.  The bill permits third parties to challenge patents, even after they are granted, through administrative proceedings at the USPTO.  This law, if passed, would again change the IP landscape.

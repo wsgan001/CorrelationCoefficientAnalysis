@@ -1,0 +1,31 @@
+Supreme Court gives Microsoft small victory, say patent experts
+
+Although the Supreme Court on Thursday rejected Microsoft's appeal of a four-year-old patent dispute, the company's efforts were not wasted, legal experts said today.
+
+In an 8-0 ruling, the Supreme Court affirmed lower court decisions that forced Microsoft to modify its popular Word program and put it on the hook for a $300 million payment to a small Canadian developer.
+
+But contrary to expectations by legal experts as well as both parties, who called the case a potential milestone in U.S. patent law, Thursday's decree was anticlimactic.
+
+"The Court maintained the status quo," said Steve Chang, a Washington D.C. attorney with Banner & Witcoff who specializes in patent litigation.
+
+Under current practice, an accused infringer must show "clear and convincing evidence" that the patent in dispute is invalid. But Microsoft -- and the host of companies that had backed it, including Apple, Cisco and Facebook -- had argued that the burden of proof bar should instead be lowered to "a preponderance of the evidence."
+
+The Supreme Court disagreed.
+
+"The Court rejects Microsoft's contention that a defendant need only persuade the jury of a patent invalidity defense by a preponderance of the evidence," the ruling read (download PDF).
+
+Thursday's rebuff was the end of the line for MIcrosoft, which has battled Toronto-based i4i since 2007, when the latter charged the U.S. giant with illegally using its XML editing technology in Microsoft Word 2003 and 2007.
+
+In 2009, a Texas federal jury found in i4i's favor and ordered Microsoft to stop selling Word in the U.S. Microsoft removed the infringing feature in early 2010 to continue selling Word and its money-making Office suite.
+
+The loss to i4i marks Microsoft biggest-ever thrashing in a patent contest: The company now owes i4i approximately $300 million.
+
+"We are very gratified and very pleased with the ruling," said Loudon Owen, chairman of i4i, in an interview yesterday. "The right decision was reached."
+
+Even though the Supreme Court -- minus Chief Justice John Roberts, who recused himself from the case because he owns Microsoft stock -- unanimously affirmed i4i's victory, a pair of experts said that Microsoft got something, too.
+
+"If the goal was to make it easier to invalidate patents, Microsoft moved the ball forward," said David Long, a partner at Dow Lohnes with 15 years of patent litigation experience.
+
+The most significant outcome of the case, said Long, was language in the opinion authored by Associate Justice Sonia Sotomayor that spelled out how patent case juries can be instructed. In her opinion, Sotomayor said that juries can be told to consider evidence that the U.S. Patent and Trademark Office [USPTO] did not evaluate before granting a patent.
+
+That was Microsoft's contention during its appeals: That the USPTO's investigators overlooked or disregarded evidence that other patents preceded i4i's, and thus the Canadian company's patent should be ruled invalid.

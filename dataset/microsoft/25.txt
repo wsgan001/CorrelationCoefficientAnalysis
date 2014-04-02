@@ -1,0 +1,21 @@
+Microsoft Loses Major Patent Case At Supreme Court 
+
+The whole tech sector was cheering on Microsoft (NSDQ: MSFT) in this case, which could have had a major impact on the function of the U.S. patent system, but it didn¡¦t matter much in the end. The Supreme Court today rejected Microsoft¡¦s bid to overturn its defeat in a major patent case, in which Microsoft was ordered to pay a small Canadian company called i4i a total of $290 million.
+
+Today¡¦s result means that the balance of power in U.S. patent lawsuits will basically remain ¡§as is,¡¨ which is to say, it¡¦s quite expensive and difficult to invalidate a patent. If Microsoft had one it would have been a huge change in patent battles, certainly the biggest since the Supreme Court decided the landmark eBay v. MercExchange case in 2007. 
+
+A brief history of the case: i4i sued Microsoft in 2007, saying that the XML editor in Microsoft Word infringed its patent. A jury found that Microsoft infringed the patent, and the company was ultimately ordered to pay $290 million and slapped with an injunction that forced it to remove its ¡§custom XML¡¨ features from Microsoft Word and Microsoft Office. The company appealed to the court that handles all U.S. patent appeals, the U.S. Court of Appeals for the Federal Circuit, but lost again.
+
+When it appealed to the U.S. Supreme Court, Microsoft broadened its argument, challenging the standard of proof in all patent cases. Currently, a defendant in a patent case bears a higher burden of proof than a plaintiff, but Microsoft wanted to make it easier for defendants to kick out bad patents, by allowing them to win their case on the same (easier) standard of proof that helps patent plaintiffs, known as the ¡§preponderance of evidence¡¨ standard.
+
+That was a popular argument in Silicon Valley, where many companies feel they are constantly assaulted by low-value patents from both competitors and so-called ¡§patent trolls¡¨ whose business is solely patent suits. Microsoft assembled an unprecedented coalition of companies supporting its cause, including arch-rivals Apple (NSDQ: AAPL) and Google (NSDQ: GOOG), as well as coalitions of wireless companies and big banks.
+
+But other important sectors of the industry¡Xpharmaceutical and biotech companies, and a few big manufacturers like General Motors and Caterpillar¡Xended up supporting i4i, because they tend to be plaintiffs in patent cases, rather than defendants. Importantly, i4i also got the support of the U.S. solicitor general, the lawyer who represents the federal government before the Supreme Court.
+
+¡§Microsoft tried to gut the value of patents by introducing a lower standard for invalidating patents,¡¨ said Loudon Owen, chairman of i4i, in a statement. ¡§It is now 100 percent clear that you can only invalidate a patent based on ¡¥clear and convincing¡¦ evidence.¡¨
+
+The Supreme Court said that if the standard of proof for patent defendants needs to be lowered, it should be Congress that makes that change, not the courts. The vote was a unanimous 8-0, with Chief Justice John Roberts having recused himself because his family owns Microsoft stock. Justice Sonia Sotomayor wrote the opinion.
+
+While the $290 million million isn¡¦t the biggest patent verdict ever, Microsoft has said it is the largest verdict ever affirmed on appeal, according to Reuters.
+
+Microsoft¡¦s reponse to an inquiry about the decision: ¡§This case raised an important issue of law which the Supreme Court itself had questioned in an earlier decision and which we believed needed resolution.  While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation.¡¨ 

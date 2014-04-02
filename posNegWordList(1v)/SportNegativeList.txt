@@ -1,0 +1,10 @@
+win
+lose
+beat
+defend
+defense
+against
+end
+finish
+finished
+guard

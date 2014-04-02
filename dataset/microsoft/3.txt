@@ -1,0 +1,19 @@
+High court rulings go against Microsoft, big phone companies
+
+In a pair of closely watched business technology appeals, the Supreme Court on Thursday offered separate, unanimous rulings dealing with patent infringement and telephone competition.
+
+The justices in an 8-0 decision upheld a $290 million judgment against software giant Microsoft Inc. for stepping on the patents of a small Canadian global tech firm.
+
+At issue was the standard of proof required to challenge the validity of a properly issued patent. Justice Sonia Sotomayor said the current "clear and convincing" measure should be applied, instead of a "preponderance of the evidence" as Microsoft hoped the court would use.
+
+The differences may appear dense and indistinguishable to the non-legal mind, but in the often arcane, highly specialized world of patent law, interpreting such federal guidelines can be worth billions of dollars in disputes over property rights.
+
+Toronto-based i4i had sued Microsoft in 2007, saying it owned the technology behind a digital tool used in Microsoft's popular Word program. The technology in question gave Word 2003 and Word 2007 users an improved way to edit XML, which is computer code that tells the program how to interpret and display a document's contents. Lower federal courts had ruled in favor of i4i in the patent infringement case.
+
+A federal judge also issued an injunction blocking sales of specific versions of Word that had infringed i4i's patents.
+
+Sotomayor, writing for the court, said Congress clearly wanted the current standard to apply in such disputes, and that legislators, not the courts, could change things if it wanted.
+
+"Congress specified the applicable standard of proof in 1952 when it codified the common-law presumption of patent validity," she wrote. "... Any recalibration of the standard of proof remains in its hands."
+
+Officials of i4i applauded the ruling. "Microsoft tried to gut the value of patents by introducing a lower standard for invalidating patents," said Loudon Owen, the company's chairman. "This is one of the most significant business cases the court has decided in decades. ... While this ruling maintains the prevailing standard, the innovation community must be ever vigilant to defend its property rights."

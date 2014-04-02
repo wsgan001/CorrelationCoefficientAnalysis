@@ -1,0 +1,7 @@
+Microsoft Loses Supreme Court Patent Case
+
+The U.S. Supreme Court Thursday denied Microsoft's appeal of a $290 million patent infringement verdict against it by a tiny Toronto technology firm, i4i, ruling that the standards for challenging the validity of patents are more stringent than the software giant had claimed in its defense.
+
+The main ruling, which was authored by Justice Sonia Sotomayor, found that the validity of patents should be judged by the more stringent "clear-and-convincing standard." That puts the responsibility for challenging the validity of a patent squarely on the party aiming to invalidate the intellectual property in question.
+
+"Microsoft tried to gut the value of patents by introducing a lower standard for invalidating patents. It is now 100 percent clear that you can only invalidate a patent based on 'clear and convincing' evidence," Loudon Owen, chairman of i4i, said in a statement. 

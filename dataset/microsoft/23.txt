@@ -1,0 +1,11 @@
+Supreme Court rules against Microsoft・s i4i appeal
+
+Microsoft・s long-running legal battle with Toronto・s i4i is over: the Supreme Court of the United States has ruled against Microsoft・s appeal of a $290 million patent infringement verdict against the company. The Supreme Court unanimously upheld a U.S. appeals court ruling against Microsoft.
+
+The patent battle goes back several years, but nearly every clash has ended in a victory for i4i, a small Canadian software company, despite Microsoft・s claims that it didn・t infringe on i4i technology and that, even if it did, i4i・s patent was invalid. The case centers on technology for managing custom XML templates for documents, a feature Microsoft originally introduced back in Microsoft Office 2003. Following i4i・s successful infringement suit, Microsoft was forced to remove the technology from Office 2003 and 2007 in order to keep selling Microsoft Word. However, Redmond continued to appeal the case, losing appeal after appeal until it had no other recourse than the United States Supreme Court. The Court agreed to hear Microsoft・t case last November.
+
+The Supreme Court・s ruling could have implications for future patent law: Microsoft・s appeal rested on redefining the standards under which patents could be invalidated, changing the requirements to a ：preponderance of the evidence； rather than the generally less-stringent legal standard of ：clear and convincing evidence.；
+
+：While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation,； Microsoft wrote in a statement.
+
+In rejecting Microsoft・s appeal, Justice Sonia Sotomayor noted that there are broader patent law issued at stake in the case, but that redefining to shift evidentiary standards is a matter for Congress rather than the courts.

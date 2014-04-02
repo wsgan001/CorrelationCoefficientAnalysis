@@ -1,0 +1,31 @@
+Supreme Court Ruling Seen as a Win for Patent Trolls
+
+The Supreme Court's decision on Thursday in the Microsoft vs. i4i case was anticlimactic and likely a disappointment to most technology companies, legal experts said.
+
+The court didn't make it any easier for accused infringers to prove that a patent is invalid, as Microsoft had hoped. It did, however, make a minor change to the way patent cases proceed that could slightly benefit defendants.
+
+The case began in 2007 when i4i sued Microsoft for infringing a patent covering a technology that lets users manipulate the architecture and content of a document. It said Microsoft infringed the patent by allowing Word users to create custom XML documents. In 2009, the U.S. District Court for the Eastern District of Texas ruled in i4i's favor and ordered Microsoft to stop selling Word products in the U.S. in their current form. Microsoft removed the feature in order to keep selling its software.
+
+The suit eventually made it to the Supreme Court over the issue of burden of proof. Currently, when a patent holder accuses someone of infringing a patent, the burden is on the infringer to prove with "clear and convincing evidence" that the patent is invalid, said Sarah Columbia, head of the intellectual-property litigation practice at McDermott Will & Emery LLP.
+
+Microsoft argued that when new evidence is presented that could invalidate a patent, the burden of proof should be lowered to a preponderance of the evidence, considered a less strict burden than clear and convincing evidence, she said.
+
+The Supreme Court, however, upheld the lower court decisions that the burden of proof should continue to be applied.
+
+Microsoft and others in the technology sector are likely to be unhappy with the ruling, said Paul Ackerman, a partner at Dorsey & Whitney LLP. While such companies have plenty of their own patents, they are more likely to be the subject of lawsuits, often lodged by so-called patent trolls, than to be defending their own patents. Patent trolls are companies that buy patents with the primary goal of asserting them for financial gain.
+
+Organizations including Apple, Google, EMC, Cisco Systems and the Electronic Frontier Foundation had all filed documents with the court in support of Microsoft's argument.
+
+Pharmaceutical companies, however, are likely to applaud the decision, Ackerman said. "They haven't seen these troll suits and they rely very heavily on patent protection to keep [generic brands] out," he said. "They invest lots of money and want their patents to be strong."
+
+The Supreme Court did make one subtle change that could have an impact on patent cases, said Benjamin Hsing, an attorney at Kaye Scholer. It said that defendants can inform juries that they are looking at evidence that the patent office did not consider when it initially issued the patent. "That could have an influence on the jury," he said.
+
+"Jury instructions will be the next battleground," he said.
+
+The Supreme Court also said that it didn't have the power to make such a significant change to patent law and that companies such as Microsoft will have to take the issue to Congress if they want change.
+
+If they do, they are unlikely to succeed, some experts said.
+
+"It's been the way of litigating patent cases for 50 years. It's not changing," Ackerman said.
+
+Companies across many industries were closely watching the case, which many expected to be one of the most important cases of the year. "It was anticlimactic," Hsing said. "People were expecting something big, a drastic sea change that didn't happen."

@@ -1,0 +1,26 @@
+Microsoft loses i4i patent case before U.S. Supreme Court
+
+In a stunning defeat. The country's highest court ruled against Microsoft in its appeal regarding XML patents.
+
+A lower court had ruled that Microsoft violated i4i payments, which was upheld on appeal. Rather than seek a reversal on the patent claims, or address whether or not Microsoft essentially pilfered i4i's XML technologies, the software giant attacked the patent process and how evidence about it is presented in court.
+
+
+The case had been closely watched because of its potential impact on U.S. patent law. Microsoft's defense essentially was an indictment of the whole patent system. The company wanted to change the standard of evidence proving a patent invalid -- from "clear and convincing" to "preponderance of the evidence."
+
+Under the current standard, patent holders publicly disclose information in exchange for a temporary monopoly over the patented product. Conceptually, the "clear and convincing" standard offers patent holders better protection when the patent is challenged in court. However, the standard is based on the presumption that the U.S. Patent and Trademark Office properly vetted the patent application, something Microsoft argued can't be assured. 
+
+However, the high court dismissed Microsoft argument, preserving the status quo. "The Court rejects Microsoft's contention that a defendant need only persuade the jury of a patent invalidity defense by a preponderance of the evidence," according to the ruling. "Also rejected is Microsoft's argument that a preponderance standard must at least apply where the evidence before the factfinder was not before the PTO during the examination process."
+
+Had the Supreme Court ruled in Microsoft's favor, the standard for invalidating a patent would be lower. That's great when Microsoft or another company is looking to invalidate a patent -- tougher when they're the patent holder being challenged.
+
+The Supreme Court case galvanized industry. Organizations filing amicus briefs on Microsoft's behalf included: Apple, Business Software Alliance, Cisco, CTIA, EMC, Google and Timex, among a handful of others. Lining up behind i4i -- a horde of supporters, including 3M, six former USPTO commissioners or directors, 10 universities, 19 venture capital firms, Bayer AG, Dolby Laboratories, Eli Lilly, Proctor and Gamble, San Diego Intellectual Property Law Association and the United States of America, among many others.
+
+A Case in History
+
+In 1994, Michel Vulpe, i4i founder, and Stephen Owens filed a patent for a "Method and system for manipulating the architecture and the content of a document separately from each other." The patent essentially covers deconstructing a document from its native structure, something XML came to do later on.
+
+While it's fairly common for an inventor to obtain a patent for a process simply for the purpose of suing other companies -- better known as patent trolling -- i4i developed a product and established a sizable client base, particularly among pharmaceuticals such as Bayer, Merk and Schwartz Pharma. Microsoft showed interest during the development of Office 2003, for creating custom XML schemas. In March 2007, i4i filed a patent infringement suit alleging that Microsoft's approach to custom XML schemas in Office 2003 and 2007 violated U.S. patent 5,787,449.
+
+In a decision undermining i4i's credibility, the lawsuit was filed in Tyler, Texas, which is a common venue for patent trolls. In May 2009, a jury found in favor of i4i, which was awarded $290 million in damages. In August 2009, a judge issued an injunction barring Microsoft from shipping Word 2007. The next day, I wrote about the case for the first time. When I started the reporting, I was ready to dismiss i4i as a patent troll, because Tyler, Texas is troll territory. But after examining the court documents, which also indicated i4i shared information with Microsoft about its XML technologies, I concluded that Microsoft probably was guilty of infringement. Microsoft lost its initial appeal in 2009 and its second appellate review in 2010.
+
+To reiterate: Microsoft's Supreme Court case sidestepped infringement, whether deliberate or accidental, choosing instead to try and change the rules about how patents are enforced -- and even awarded.

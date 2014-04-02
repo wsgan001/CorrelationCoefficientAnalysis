@@ -1,0 +1,10 @@
+Microsoft loses $290-mn Word suit
+
+The US Supreme Court ruled against Microsoft Corp on Thursday in its appeal of a record $290 million jury verdict for infringing a small Canadian software firm's patent. The justices unanimously upheld a US appeals court's ruling that went against the world's largest software company in its legal b
+attle with Toronto-based i4i. The high court rejected Microsoft's argument to adopt a lower standard to replace the long-standing requirement that a defendant in a patent infringement case prove by clear and convincing evidence that a plaintiff's patent is invalid.
+
+Redmond, Washington-based Microsoft argued that a lower standard of proof involving a "preponderance of the evidence" would make some patents more vulnerable to legal challenge while promoting innovation and competition.
+
+The Obama administration and i4i opposed Microsoft's position and said Congress has accepted the standard in effect for at least the past 28 years, that it was correct, and that it should be upheld by the Supreme Court.
+
+i4i said Microsoft sought a radical change in patent law and that any change should come instead from Congress, which has been considering patent legislation. The legal battle began in 2007 when i4i sued Microsoft for infringing its patent relating to text manipulation software in 2003 and 2007 versions of Word, Microsoft's word processing application. 

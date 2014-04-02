@@ -1,0 +1,27 @@
+Supreme Court Upholds $290 Million Infringement Award Against Microsoft
+
+The Supreme Court on Thursday unanimously ruled Microsoft is liable for at least $290 million in damages for willfully using a patent it did not own as part of its Word program.
+
+The appeal brought by the world¡¦s largest software maker was a closely watched intellectual-property case. Microsoft was asking the justices to make it easier for companies to defend themselves against patent-infringement allegations.
+
+The court refused, and declined to toss the verdict (.pdf).
+
+Microsoft¡¦s legal trouble began in 2007, when it was sued by Canadian outfit i4i. It claimed in a federal lawsuit that Microsoft, based in Redmond, Washington, had hijacked technology that made it easier for Word 2003 and Word 2007 to work with XML code. Microsoft Word¡¦s current version does not employ i4i¡¦s patents.
+
+The heavily nuanced legal flap surrounded instructions a federal judge had given to the jury. Microsoft argued that the i4i patent was invalidly granted, and that it only needed to convince a jury of that by a ¡§preponderance¡¨ of the evidence.
+
+With interest and other damages, the jury¡¦s verdict against Microsoft has grown to more than $290 million. Microsoft reported $5.2 billion in profits in the latest quarterly results.
+
+The presiding judge over the patent dispute told jurors that, in order for Microsoft to invoke an ¡§invalidity¡¨ defense under the Patent Act of 1952, the software maker needed to prove the patent was wrongly awarded to i4i by ¡§clear and convincing¡¨ evidence.
+
+Microsoft, backed by Apple and Google, had argued that the ¡§preponderance¡¨ standard was all that was required. That standard, they argued, would make it easier for companies to defend themselves against patent-infringement allegations, which would foster better competition and innovation.
+
+Justice Sonia Sotomeyer, in backing the Obama administration¡¦s position, wrote that the courts have upheld that stricter standard for three decades.
+
+Congress, she ruled, has never ¡§even considered a proposal to lower the standard of proof.¡¨ She added, ¡§Any recalibration of the standard of proof remains in its hands.¡¨
+
+The Patent Act of 1952 is silent on the standard of proof. It says patents ¡§shall be presumed valid¡¨ and the ¡§burden of establishing invalidity of the patent or any claim thereof shall rest on the party asserting such invalidity.¡¨
+
+The differing standards of proof, however nuanced, can have a dramatic difference in court outcomes.
+
+While not directly on point, a California civil jury in 1997 ¡X using the ¡§preponderance¡¨ of evidence standard ¡X found O.J. Simpson civilly liable in connection to the deaths of Nicole Simpson and Ronald Goldman. Two years before, a different jury in Simpson¡¦s criminal case acquitted him on two counts of murder. The jurors in the criminal trial were instructed that the required standard of proof for conviction was ¡§beyond a reasonable doubt.¡¨

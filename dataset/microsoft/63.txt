@@ -1,0 +1,25 @@
+Microsoft Loses Patent Appeal Before U.S. Supreme Court, Owes i4i $290 Million
+
+It looks like Microsoft (NSDQ:MSFT) will have to cough up $290 million to Toronto-based i4i after the U.S. Supreme Court Thursday rejected Microsoft's appeal of the long-running patent infringement case.
+
+The court justices unanimously rejected Microsoft's argument that the standard of proof needed to declare a patent invalid are too high and that "any recalibration of the standard of proof remains in Congress' hands," according to a copy of the ruling posted online.
+
+I4i chairman Loudon Owen, in a statement provided to the Reuters news agency, called the ruling "one of the most significant business cases the court has decided in decades."
+
+Microsoft issued a statement saying, "This case raised an important issue of law which the Supreme Court itself had questioned in an earlier decision and which we believed needed resolution. While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation."
+
+While Microsoft did not formally disclose its next steps, a source acknowledged that there are no additional legal routes for Microsoft to pursue and the company would be paying the $290 million award. The Reuters story said Microsoft has already set aside money for the verdict.
+
+The four-year legal case stems from claims by i4i that technology Microsoft used in Word 2007 and Office 2007 for editing and customizing XML code infringed on i4i patents. In 2009 i4i won a jury trial in U.S. District Court and was awarded $290 million in damages and fines.
+
+Since then Microsoft's efforts to have the verdict overturned in higher courts, including in the Federal Circuit Court of Appeals, have failed.
+
+Microsoft removed the disputed code from Word 2007 and Office 2007 and has not used it in newer releases of the applications.
+
+Patent disputes in court generally put the onus on defendants to prove that a plaintiff's patent is invalid. Microsoft had argued before the U.S. Supreme Court that such cases should only require a preponderance of evidence that a patent is invalid, using the same standard of proof often used in other civil cases, rather than "clear and convincing evidence" a patent is invalid.
+
+By making it easier to challenge patents in court, a Microsoft victory could have had broader ramifications in questions around patent protection and intellectual property in the IT industry and beyond, legal experts said.
+
+Attorneys for i4i and the Obama Administration argued before the court that the "clear and convincing evidence" standard had been in effect for at least 28 years and was based on long-settled precedents,
+
+The Supreme Court justices agreed, voting 8-0 against Microsoft: Chief Justice John Roberts recused himself from the case because he owns Microsoft stock. 

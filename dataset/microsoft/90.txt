@@ -1,0 +1,13 @@
+Microsoft Loses $290 Million in Patent Battle Fail
+
+The Supreme Court decided that Microsoft would have to pay the $290 million charge that a jury deemed suitable for a patent infringement against Toronto-based software company i4i.
+
+A jury verdict already awarded over $200 million to i4i over Microsoft's infringement of an XML technology that the software giant used in its previous versions of Microsoft Word.
+
+Microsoft has appealed the decision up the legal system, but now the word from the Supreme Court means that i4i can finally celebrate.
+
+Michel Vulpe, i4i's founder and chief technology officer, commented on the Court's unanimous decision, "We're very pleased that the court did the right thing."
+
+Loudon Owen, i4i's chairman, said in a statement, "This is one of the most significant business cases the court has decided in decades."
+
+Microsoft actually pushed for the courts for a new standard in patent matters. According to Reuters, the Congress-accepted standard is that the defendant in a patent infringement case must "prove by clear and convincing evidence that a plaintiff's patent is invalid." Microsoft, on the other hand, wanted a "lower standard of proof involving a 'preponderance of the evidence' would make some 'bad' patents easier to invalidate while promoting innovation and competition."

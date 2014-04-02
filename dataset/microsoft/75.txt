@@ -1,0 +1,46 @@
+US court rules against Microsoft in i4i patent case 
+
+The U.S. Supreme Court unanimously upheld a lower court ruling on Thursday that Microsoft infringed on the patents of a tiny Canadian company, i4i, and required the software giant to pay US$290 million.
+
+The ruling could have broad implications for the way patent law is applied to technology. Microsoft has hoped the court would change the standard by which patents could be invalidated, requiring on a "preponderance of the evidence". But the court upheld the current "clear and convincing evidence" standard in ruling in favor of i4i.
+
+In a statement, Microsoft expressed disappointment with the ruling.
+
+"This case raised an important issue of law which the Supreme Court itself had questioned in an earlier decision and which we believed needed resolution," the company said in its statement. "While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation."
+
+Writing the majority opinion, Justice Sonia Sotomayor noted that the central question in the case was whether the current law requires an invalidity defense to be proved by clear and convincing evidence.
+
+"We hold that it does," Sotomayor wrote.
+
+She acknowledged the broader policy issues in the case, noting the arguments from some of the biggest names in corporate America lining up on both sides of the case. But Sotomayor wrote that any decision to shift the standard on evidence for patent invalidity rests with Congress, not the courts.
+
+"Any re-calibration of the standard of proof remains in its hands," Sotomayor wrote.
+
+Sotomayor was joined by six other justices with Justice Clarence Thomas penning a separate, concurring opinion. Chief Justice John Roberts did not participate in the case because he owns more than US$100,000 worth of Microsoft stock.
+
+The ruling was vindication for i4i, which Microsoft painted as something of a patent troll, looking to tap into the deep pockets of the software giant with a dubious infringement claim. But the 30-employee company withstood the costly legal challenges from the massive multinational.
+
+"The one thing that was told to us time and again was don't do this. We were told you cannot win," said i4i chairman Loudon Owen.
+
+The ruling clears away uncertainty for i4i's partners and customers.
+
+"All they know is that your patents are in question," said Owen, who added that the company hasn't determined yet how it intends to use the proceeds of the litigation.
+
+In 2007, i4i sued Microsoft over claims that the software giant violated a patents covering the way XML, or Extensible Markup Language, is used in Word, Microsoft's widely used word-processing program. A jury ruled in i4i's favor, prompting a Microsoft appeal. Microsoft lost the appeal, which led the company to petition the Supreme Court to hear the case, which it did in April.
+
+Beyond Word
+Today's ruling concludes one of the most closely watched patent law cases in years. Microsoft pressed to establish a precedent that would make it harder for companies with patent claims to prove infringement. It was joined, in friend-of-the-court filings, by a host of large technology companies, including Apple, Google, Facebook, and Cisco. And a collection of younger, Net-generation leaders, such as Facebook, eBay, LinkedIn and Netflix, supported Microsoft as well.
+
+i4i had its own coterie of supporters among corporate giants, including pharmaceutical behemoths such Eli Lilly and Bayer, whose patented drugs generate billions in revenue. Other friends-of-the-court filings in favor of i4i came from 3M, Proctor & Gamble, General Electric, and Dolby Laboratories. And several venture capitalists, universities, and even the U.S. Solicitor General backed i4i's position.
+
+"This became a tremendously important litmus test as to whether patents mean anything," Owen said.
+
+Today's ruling, though, winds up affirming the status quo. For all the focus on the case and the implications for a broad swath of industries, little changes, save for the uncertainty that the litigation fueled.
+
+"It didn't change the law," says Brandon Baum, an intellectual law professor at the University of California Hastings College of the Law. "Life will go on as presently situated."
+
+Companies would have operated under a different standard had Microsoft prevailed, Baum said. Microsoft and its tech brethren hoped to alter existing law in order to remove the irritant of frequently defending patent infringement cases.
+
+"Tech companies saw this case as a way to get a bit of an upper hand," Baum said.
+
+But Microsoft's case wasn't a strong one, and Microsoft didn't make for a particularly sympathetic victim, Baum said. "This was Microsoft crying about being treated unfairly in the courts," he said.

@@ -1,0 +1,17 @@
+Supreme Court Rules Against Microsoft in i4i Case
+
+In a unanimous decision that won't be well-received by tech industry heavyweights, the U.S. Supreme Court ruled this morning against Microsoft in the closely watched Microsoft v. i4i case, rejecting the software giant's argument to lower the evidentiary requirement to invalidate a patent.
+
+The decision, which upholds the $290 million verdict against Microsoft won by the small Toronto-based i4i software company in the Eastern District of Texas, solidifies existing precedent and leaves intact the 28-year-old standard applied by the Federal Circuit in patent infringement cases.
+
+"Congress specified the applicable standard of proof in 1952 when it codified the common-law presumption of patent validity," Justice Sonia Sotomayor wrote for the Court. "Since then, it has allowed the Federal Circuit's correct interpretation of ¡±282 to stand. Any recalibration of the standard of proof remains in its hands." [ Download Microsoft v. i4i Supreme Court Decision]
+
+Thomas  G. Hungar, a partner in the Washington, D.C. office of Gibson, Dunn & Crutcher, argued the case for Microsoft.  Seth Waxman, a partner in the Washington, D.C. office of Wilmer Cutler Pickering Hale and Dorr represented i4i, which was represented at trial by McKool Smith and before the U.S. Court of Appeals for the Federal Circuit by Finnegan, Henderson, Farabow, Garrett & Dunner. Microsoft was represented at trial and before the Federal Circuit by Weil, Gotshal & Manges.
+
+Microsoft, along with such heavy-hitting amici as Google, Apple, Verizon, and HP, had advocated for the adoption of the lower preponderance standard in patent cases, arguing that the heightened standard insulated "bad patents" from invalidity challenges and stifled innovation. The Obama administration backed i4i, which warned that a lower standard would too easily allow juries to overturn the wisdom of the experts at the PTO. Lower the standard for invalidating a patent, Microsoft and its allies argued, would level the playing field to give patent infringement defendants a fairer shake in litigation.
+
+But the Supreme Court said it was up to Congress to weigh such considerations. "We find ourselves in no position to judge the comparative force of these policy arguments," wrote Sotomayor, adding, "Congress has amended the patent laws to account for concerns about 'bad' patents, including by expanding the reexamination process to provide for inter partes proceedings. Through it all the evidentiary standard adopted in ¡±282 has gone untouched."
+
+The legal battle between the world's largest software maker and i4i (which stands for "infrastructures for information") began in 2007 when i4i sued Microsoft for infringing its patented XML editing feature in Microsoft Word. Microsoft, the jury found, willfully infringed i4i's patent when it installed its own XML editing features in Word 2003. The six-day trial in Tyler, Texas resulted in a $290 million verdict for i4i, which, like the company's patent, was later upheld by the Federal Circuit.
+
+Microsoft, which was also permanently enjoined by the district court from selling versions of Word that infringed i4i's patent, has since removed the disputed features from its software. Now, the software giant will have pay the damages.

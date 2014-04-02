@@ -1,0 +1,21 @@
+i4i Triumphs Over Microsoft in Landmark Supreme Court Case 
+
+The old David & Goliath metaphor was invented for cases like this.
+
+i4i, a tiny Canadian tech company, was just handed a huge victory by the United States Supreme Court in a case that involved Microsoft's stealing bits of the smaller company's technology for use in its Word program and a battle over the American patent system.
+
+In previous court rulings i4i had been handed a $290 million judgment. Microsoft had appealed on technical grounds, arguing that a different standard of proof in deciding whether patents were being violated should be used. The Supreme Court disagreed and today upheld the judgement.
+
+Even the Obama administration weighed in on the case before it was decided, supporting i4i and saying that the standard of proof for patents that Microsoft was arguing for went against decades of legal standards.
+
+After the hearing, reactions were predictably split.
+
+Reuters reports:
+
+    Loudon Owen, i4i's chairman, said in a statement, "This is one of the most significant business cases the court has decided in decades."
+
+    Microsoft has said it is the largest patent infringement verdict ever affirmed on appeal. It has also said it had set aside money for the verdict, so it was not material to its earnings.
+
+    "While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation," Microsoft spokesman Kevin Kutz said in an email statement.
+
+Here's the full decision.

@@ -1,0 +1,29 @@
+Who will win the French presidential election?
+
+Polling shows an interesting fight for third in the first round, but Sarkozy has a job to see off Hollande's challenge in the second
+
+Most Americans seem preoccupied with the United States presidential elections that are now about 200 days away, but there's actually a presidential election with much a closer date. The French presidential election's first round takes place this Sunday, with a second-round runoff for the top two finishers on 6 May. The French economy, like many, is struggling and voters are looking for a solution.
+
+For those unfamiliar with the French elections, here's a very quick summary of the players on the field. The incumbent is President Nicolas Sarkozy, a member of the centre-right Union for a Popular Movement. Sarkozy's main opponent is the centre-left Socialist party's nominee, Francois Hollande.
+
+The far-right National Front's Marine Le Pen (daughter of long-time former candidate Jean-Marie Le Pen) had long been thought to be the third horse. Francois Bayrou of the centrist Democratic Movement finished third in the last presidential election. Finally, Jean-Luc Melenchon represents newly founded Left party, which could be characterized as further to the left than the Socialist party. Note that there are another five candidates, but they are all polling in the very low single digits. 
+
+How will the election ultimately end up? I've instituted a Loess regression (made famous by Pollster.com in 2008) for both the first and second round surveys. The advantage of the Loess is that it helps to smooth out any outlier polls and gives a crisp visual interpretation of the available data over time. The charts track opinion from the time Hollande won the nomination of the Socialist party in the middle of October 2011. Keep in mind that the campaign officially began on 20 March. 
+
+It seems fairly certain at this point that Hollande and Sarkozy will be the two highest vote-getters in Sunday's first round, and advance to the second-round runoff. Sarkozy started off at around 25% in October and stayed fairly steady until about February, when he rose into the upper 20s. Hollande slid from the mid 30s to about 30% from the time he clinched the nomination until January, and then seemed to level out until March before dipping into the upper 20s himself.
+
+Hollande's initial dip seemed to benefit Bayrou, who rose quickly from the mid single digits into low double digits, but Bayrou has dropped off and now seems in danger of not reaching 10%. Melenchon, on the other hand, has come on strong since January. Starting at about 5%, he's now polling at 15% and challenging Le Pen for third place. Le Pen, outside of perhaps Sarkozy, has polled most consistently. She started in the mid upper teens and has fallen a few percentage points to about 15%. Most of her support has gone to Sarkozy. 
+
+Will the polls be right? You might (or might not) remember that Le Pen's father Jean-Marie shocked a lot of people by making it into the second round in 2002. That doesn't seem too likely this time around. The top candidates were all between 10% and 20% in 2002, while this time, there is a little more than 10% separating the top tier of Hollande and Sarkozy and the second tier of Bayrou, Le Pen, and Melenchon. Le Pen only finished 4 points ahead of where the polls had him, to place second in the first round.
+
+That's not to say that we know the definite order of the finishers. The average candidate error for the polls in the 2002 and 2007 elections were 1.9 and 2.4 percentage points respectively. The highest individual candidate error in each year was about 4 points. Considering that Hollande and Sarkozy are tied at about 27.5%, either could finish first. Sarkozy has seemed to drop off a little in the last few weeks, so he could be considered a slight underdog. Le Pen and Melenchon are both at about 15%, and it's simply too close to call. Bayrou is only 5 points back of third and could end up, given past polling errors, in either third or fourth. 
+
+Every single poll taken since October has had Hollande ahead of Sarkozy. As with the first-round polling data, however, Hollande has dropped. The gap between Hollande and Sarkozy has closed considerably from 25 points to about 10 points. Hollande's second-round decline has occurred at a more consistent pace since October than his first-round slump.
+
+The problem for Sarkozy is that his momentum stopped recently, as it has in the first-round polls. In fact, he has dropped a couple of points from his all-time high of just north of 45%. The substantial difference between the first and second round is that his standing relative to Hollande has always been weaker in the second round.
+
+Can Sarkozy hope that the second-round polls are wrong?
+
+In 2007, almost all the second-round polls taken before first round voting gave Sarkozy an edge over his Socialist opponent Segolene Royal. The final five poll average of these hypothetical second-round polls put Sarkozy at 52.1% of the vote; and he eventually ended up with 53.1%. These polls were as accurate as those taken just before second-round voting occurred. There were no hypothetical second-round polls for Le Pen and then President Jacques Chirac in 2002, but the final polls before second-round voting occurred were accurate.
+
+The best hope for Nicolas Sarkozy starts with winning the first round. If Sarkozy can take the first round convincingly, he can claim momentum and hope to reverse his projected second-round decline. That is possible given the closeness of the first-round polls. Still, the French economy is weak, and voters look intent on blaming the incumbent. Francois Hollande is probably the next president of France.

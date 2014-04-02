@@ -1,0 +1,15 @@
+Software Patent Blockbuster: Microsoft loses to i4i
+
+The Supreme Court of the United States (SCOTUS) ruled today against Microsoft in its appeal of a $290 million jury verdict for infringing Canadian software company i4i・s patent. It wasn・t close. SCOTUS unanimously upheld a U.S. appeals court・s ruling against Microsoft.
+
+Microsoft had argued that the courts should adopt a lower burden-of-proof bar for patent violations. Previously, if you・ve been accused of violating a patent you must show ：clear and convincing evidence； that the patent is invalid. Microsoft wants the burden of proof to be lowered to ：a preponderance of the evidence.； The SCOTUS didn・t buy this argument for one minute.
+
+In the Court・s unanimous decision, Justice Sonia Sotomayor wrote (PDF Link), ：We consider whether [a section of the Patent Act of 1952] requires an invalidity defense to be proved by clear and convincing evidence. We hold that it does.；
+
+This decision doesn・t come as much as a surprise. The Obama administration had opposed Microsoft・s argument. I4i had argued, with the administration・s agreement that Microsoft was essentially seeking a change in patent law and that only Congress could make such a change. One of the commentators on the SCOTUS Blog noted, ：The United States supported this result on behalf of the PTO [Patent & Trademark Office]. Essentially, the government never loses patent cases.；
+
+As Thomas Carey, a partner at Sunstein, a major intellectual property (IP) law firm and chair of its Business Department, commented, ：Rather than settle out of court, Microsoft appealed all the way to the Supreme Court, losing at every stop along the way. At the Supreme Court level, Microsoft challenged the jury instruction concerning the ．clear and convincing・ burden of proof needed to overturn a patent; a standard that has been uniformly applied by the Supreme Court for more than 100 years. Not a single justice of this often-divided court saw any reason to change this burden of proof for Microsoft・s benefit.；
+
+The fight began in 2007 when i4i sued Microsoft for abusing their XML patent in Microsoft Office 2003 and 2007 Open XML (Extended Markup Language) documents format. Indeed, in 2009, the U.S. District Court for the Eastern District of Texas had issued an injunction that could have stopped Microsoft from selling any ：Word products that have the capability of opening .XML, .DOCX or DOCM files (XML files) containing custom XML.；
+
+Carey thinks, ：Microsoft has demonstrated arrogance throughout this affair. First by ignoring the patent, then by trying to overturn a legal standard that it found inconvenient. Had Microsoft succeeded it would have greatly weakened the patent system in the United States, a result that would have been cheered in some circles and denounced in others. But it lost, and must now pay for its decision to ignore the intellectual property rights of a competitor.；

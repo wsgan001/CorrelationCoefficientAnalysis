@@ -1,0 +1,25 @@
+Microsoft Loses Supreme Court Case
+
+The U.S. Supreme Court has upheld a $290 million judgment against Microsoft for patent infringement. The award is the largest ever upheld on appeal in a patent case.
+
+A small software company called i4i sued Microsoft in 2007, alleging that the industry giant had, without permission, used an editing tool patented by i4i ¡X specifically, that the program was used in Microsoft Word 2003 and 2007. A jury ruled against Microsoft, ordering it to pay $290 million to i4i and to stop using the patented editing tool.
+
+Microsoft appealed all the way to the Supreme Court. The company told the justices that i4i's patent was invalid and that the standard for proving invalidity should be less rigorous than the standard applied by the lower courts.
+
+But on Thursday, Microsoft lost in the Supreme Court by an 8-0 vote. Writing for the court, Justice Sonia Sotomayor said federal law clearly states patents granted by the U.S. Patent Office are presumed valid.
+
+She said the courts have long held that any challenger must prove invalidity by "clear and convincing" evidence, and not by the lower standard favored by Microsoft, "preponderance of the evidence." Any "recalibration of the standard of proof" must be done by Congress, said Sotomayor.
+
+All the remaining members of the court joined the opinion, except for Justice Clarence Thomas. He agreed with the outcome but got there via different reasoning.
+
+Chief Justice John Roberts did not participate in the case. According to financial disclosure reports, his family owns more than $100,000 in Microsoft stock.
+
+Microsoft no longer uses the i4i patented technology in its Word program. The company, which had a $5.2 billion profit in the first quarter this year, has not yet paid the damages which, with interest, are expected to rise above $300 million.
+
+The case has attracted enormous attention in the business community, with an astonishing 46 separate friend-of-the-court briefs filed.
+
+On one side were such big names as Google, Apple, Cisco and Intel ¡X as well as financial services companies. They said it is often impossible to determine whether a software program is patented, since programmers can and do quickly build new programs based on existing knowledge.
+
+On the other side, supporting i4i, were biotech, pharmaceutical, new energy and venture capital firms, among others. They said investors would not spend the large amounts needed to create new technologies and products if a patent could be easily undermined.
+
+The Supreme Court's decision Thursday preserves the status quo ¡X meaning there is a strong presumption of patent validity that is difficult to overcome in court. A contrary decision would have upended the way patent law has been practiced for decades and would have set off a mad scramble to rewrite the law in Congress. As it is, Microsoft issued a statement, saying it "would continue to advocate for changes to the law."

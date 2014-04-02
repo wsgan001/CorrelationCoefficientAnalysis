@@ -1,0 +1,16 @@
+Supreme Court Rules Against Microsoft in i4i Patent Battle
+
+According to Reuters, the Supreme Court has upheld a $290 million jury verdict against Microsoft for infringing i4i's patent relating to text manipulation software.
+
+ 
+
+The legal battle dates back to 2007. In 2009, a judge ordered Microsoft to stop selling Word products that contain the offending technology. Microsoft did end up removing i4i's custom XML technology from Word 2003 and 2007, but it took the case to a federal appeals court because it did not like the way that the damages figure was determined. The appeals court sided with i4i.
+
+ 
+
+Microsoft argued that the standard of proof needed to rule a patent invalid is too high. CRN reports that the Supreme Court justices unanimously rejected this argument, saying "any recalibration of the standard of proof remains in Congress' hands."
+
+ 
+
+However, some experts believe the decision wasn't a total loss for Microsoft. Computerworld says Associate Justice Sonia Sotomayor said that juries can be instructed to consider evidence that the U.S. Patent and Trademark Office did not evaluate before awarding a patent. David Long, a partner at Dow Lohnes, says:
+

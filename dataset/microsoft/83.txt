@@ -1,0 +1,67 @@
+Supreme Court gives Microsoft small victory, say patent experts
+
+Although the Supreme Court on Thursday rejected Microsoft's appeal of a four-year-old patent dispute woth i4i, its efforts weren't wasted, legal experts said. 
+
+Although the Supreme Court on Thursday rejected Microsoft's appeal of a four-year-old patent dispute, the company's efforts were not wasted, legal experts said today.
+
+In an 8-0 ruling, the Supreme Court affirmed lower court decisions that forced Microsoft to modify its popular Word program and put it on the hook for a $300 million payment to a small Canadian developer.
+
+But contrary to expectations by legal experts as well as both parties, who called the case a potential milestone in U.S. patent law, Thursday's decree was anticlimactic.
+
+"The Court maintained the status quo," said Steve Chang, a Washington D.C. attorney with Banner & Witcoff who specializes in patent litigation.
+
+Under current practice, an accused infringer must show "clear and convincing evidence" that the patent in dispute is invalid. But Microsoft -- and the host of companies that had backed it, including Apple, Cisco and Facebook -- had argued that the burden of proof bar should instead be lowered to "a preponderance of the evidence."
+
+The Supreme Court disagreed.
+
+"The Court rejects Microsoft's contention that a defendant need only persuade the jury of a patent invalidity defense by a preponderance of the evidence," the ruling read ( download PDF ).
+
+Thursday's rebuff was the end of the line for MIcrosoft, which has battled Toronto-based i4i since 2007, when the latter charged the U.S. giant with illegally using its XML editing technology in Microsoft Word 2003 and 2007.
+
+In 2009, a Texas federal jury found in i4i's favor and ordered Microsoft to stop selling Word in the U.S. Microsoft removed the infringing feature in early 2010 to continue selling Word and its money-making Office suite.
+
+The loss to i4i marks Microsoft biggest-ever thrashing in a patent contest: The company now owes i4i approximately $300 million.
+
+"We are very gratified and very pleased with the ruling," said Loudon Owen, chairman of i4i, in an interview yesterday. "The right decision was reached."
+
+Even though the Supreme Court -- minus Chief Justice John Roberts, who recused himself from the case because he owns Microsoft stock -- unanimously affirmed i4i's victory, a pair of experts said that Microsoft got something, too.
+
+"If the goal was to make it easier to invalidate patents, Microsoft moved the ball forward," said David Young, a partner at Dow Lohnes with 15 years of patent litigation experience.
+
+The most significant outcome of the case, said Young, was language in the opinion authored by Associate Justice Sonia Sotomayor that spelled out how patent case juries can be instructed. In her opinion, Sotomayor said that juries can be told to consider evidence that the U.S. Patent and Trademark Office [USPTO] did not evaluate before granting a patent.
+
+That was Microsoft's contention during its appeals: That the USPTO's investigators overlooked or disregarded evidence that other patents preceded i4i's, and thus the Canadian company's patent should be ruled invalid.
+
+Sotomayor's opinion expressly said that juries could be instructed to weigh such failings of the USPTO.
+
+"When warranted, the jury may be instructed to consider that it has heard evidence that the PTO had no opportunity to evaluate before granting the patent," she wrote. "The jury may be instructed to evaluate whether the evidence before it is materially new, and if so, to consider that fact when determining whether an invalidity defense has been proved by clear and convincing evidence."
+
+Although Microsoft couldn't profit from that in retrospect -- the company did not make the argument during trial -- it and other patent holders will benefit in the future, said Young.
+
+"In some ways, this is more important than the [change in the] standard that the Court considered," said Young. "This will have a big impact in litigation. Patent attorneys on both sides will look at this language and will cite it in every case this day forward."
+
+According to Young, the new guidelines for jury instructions will make it easier for defendants -- like Microsoft -- to get a jury to reject the USPTO's decisions on patents. "By and large, I think patent invalidation will be more likely based on these instructions," said Young.
+
+Although Chang didn't agree -- he saw the ruling as a clear defeat for Microsoft -- neither he or Young thought that Microsoft wasted time or money taking their appeal all the way to the Supreme Court.
+
+"The sheer volume of interest in this case indicated that it was a question that a lot of people were thinking about," said Chang. "Even though the status quo [on the standard or proof] was confirmed, this offers some analysis and thought on jury instructions."
+
+For his part, Young saw Microsoft's move in a larger context.
+
+"What often happens in patent law is that the courts and Congress stare at each other, and each wants the other to make a move," said Young. By getting the Supreme Court to rule -- even though not in its favor -- Microsoft gains because it can now more effectively lobby Congress for changes in U.S. patent law.
+
+"Microsoft can now say to Congress that 'The ball is in your court,'" said Young.
+
+Not surprisingly, Microsoft was disappointed in Thursday's ruling.
+
+"While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation," Microsoft said in a statement.
+
+But i4i's Owen was looking forward to a big payday. By the terms of an earlier deal between the firms, Microsoft must pay the judgment -- at this point, slightly more than $300 million -- within 15 days of exhausting its final appeal.
+
+"This was unprecedented, a watershed moment for patent law," Owen said of the ruling.
+
+i4i has repeatedly portrayed its battle with Microsoft as a David and Goliath contest. Owen did not disappoint Thursday.
+
+"This was David in the wilderness fighting against Goliath," Owen said. "We've very appreciative of the tremendous support for our position. People believed in what we believed in."
+
+Gregg Keizer covers Microsoft, security issues, Apple, Web browsers and general technology breaking news for Computerworld. Follow Gregg on Twitter at @gkeizer or subscribe to Gregg's RSS feed . His e-mail address is gkeizer@computerworld.com .

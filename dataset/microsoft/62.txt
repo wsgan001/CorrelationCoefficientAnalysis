@@ -1,0 +1,15 @@
+Top US court upholds $290m patent infringement ruling against Microsoft
+
+Global software giant Microsoft has been ordered to pay $290million (178.6million) to a Canadian rival after losing an appeal in a patents case.
+
+The US Supreme Court rejected the company's attempt to redefine the law on patents, which would have meant that a case could be decided on "a preponderance of the evidence", rather than the current higher legal standards.
+
+Microsoft was fighting a ruling which adjudged that it had breached the copyright of Toronto, Canada-based software firm i4i on text manipulation software in its Windows 2003 and 2007 operating systems.
+
+But Judge Sonia Sotomayor's written verdict said that, as the US congress had prescribed the standard by which such cases should be judged, that should be the yardstick against which any such cases were decided.
+
+Meanwhile, Microsoft withdrew the offending features from its software packages, but continued its fight to the highest court in the United States.
+
+After securing the unanimous verdict, i4i founder and chief technology officer Michel Vulpe told the Reuters news agency: "We're very pleased the court did the right thing."
+
+While confirming that the verdict was the largest of its kind upheld on appeal, Microsoft, meanwhile, said in a statement that it would "continue to advocate changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation."

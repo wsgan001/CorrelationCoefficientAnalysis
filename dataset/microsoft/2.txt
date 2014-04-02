@@ -1,0 +1,32 @@
+Supreme Court decision could have big effect on patent law
+
+Read more: http://www.cbsnews.com/8301-503544_162-20070421-503544.html#ixzz1PRBli1WX
+
+
+It's a huge decision for a small firm in a patent fight with a Goliath.
+
+In a legal battle that attracted MANY giants of American business, a unanimous Supreme Court has ruled that Microsoft willfully violated an existing patent held by a much smaller competitor.
+
+"This is a defeat for Microsoft in a very closely watched patent case," says CBS News Senior Legal Analyst Andrew Cohen. "But it's main impact is to confirm the burden of proof that must be used in these sorts of disputes."
+
+The high court upheld a standard that makes it HARDER for companies to overturn patents on products they use.
+
+"The standard of proof, which sounds like a technicality to non-lawyers, is utterly critical," says San Francisco lawyer Jerry Falk. "It regulates how easy it is to knock over a patent."
+
+In this case, Microsoft tried invalidating a patent held by a Canadian firm called i4i Limited Partnership. It wanted to be able to do that using a LESSER standard of proof, a preponderance of evidence. The Supreme Court says Congress clearly required companies to provide clear and convincing evidence, a much more difficult chore.
+
+The way Falk explains it, "The clear and convincing evidence standard, in effect, says to the jury, 'You better be pretty darn sure.'"
+
+Doug Hallward-Dreimeier, a Washington attorney, says that TOUGHER standard is important for patent protection. "What the standard does is really put a significant thumb on the scale in favor of the patentee," he said.
+
+He represents various venture capital companies.
+
+"The case is very significant for any firms that invest heavily in developing patented inventions," he added. "They are frequently investing in a company that really has one principle asset, the patent. The venture capital firm is only going to make that investment if they have confidence that once developed, the technology is going to be the exclusive property of the company that owns it."
+
+Jerry Falk wrote a brief on behalf of Genentech and Roche, biotech firms involved in drug development. He says, "If you are a company like Genentech that spends hundreds of millions to develop a new drug over an extended period of time, the ability to recover one's investment and to make a reasonable profit is dependent on patent protection. You're going to get more innovation and more development of potentially life-saving drugs if there's adequate patent protection."
+
+The high court ruling upholds a judgment against Microsoft for violating i4i's patent on a technology tool that was used in some versions of Microsoft Word. It also leaves in place a 290 million dollars damages award. Microsoft, joined by a diverse range of corporations including Google, Verizon and the New York Times, says patent infringement lawsuits are enormously expensive to defend and that this higher standard of proof will make companies reluctant to incorporate inventions into their products.
+
+Attorney Falk replies, "That's probably one of those arguments that the Supreme Court had in mind at the end of its opinion when it said, 'These are arguments for Congress.'"
+
+Read more: http://www.cbsnews.com/8301-503544_162-20070421-503544.html#ixzz1PRBoUEm5

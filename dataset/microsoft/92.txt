@@ -1,0 +1,18 @@
+Supremes Rule Against Microsoft
+
+The US Supreme Court Thursday ruled that Microsoft has to pay the $290 million patent infringement judgment awarded to little Toronto-based i4i two years ago after a Texas jury found that Word 2003 and 2007 willfully trod on its XML IP.
+
+Microsoft tried arguing that the bar for deciding whether a patent is invalid or not based on new evidence was set too high and that the district court judge in the i4i case should have instructed the jury to use the "preponderance of the evidence" rule rather than the "clear and convincing" evidence standard.
+
+The argument got a lot of backing from the high-tech industry - it filed a lot of support briefs in hopes of quashing some noisome patents, particularly troll patents - but it didn't cut it at all for any of the justices.
+
+Their decision was unanimous. The "clear and convincing" rule was the right one, the one applied for 30 years. There will be no radical change unless Congress legislates it.
+
+Issued patents are presumed valid so hefty evidence needs to be offered to prove that they ain't.
+
+Justice Sonia Sotomayor wrote the court's 20-page opinion and from what she wrote it appears that if Microsoft had originally asked that the jury be instructed that the Patent and Trademark Office had never considered the prior art Microsoft offered as proof i4i's patent was invalid and was therefore "clear and convincing evidence" of its invalidity things might have turned out differently. But it's too late now to argue the jury should have been so instructed, she said.
+
+That means that jury instructions will be the next point of contention.
+
+The US government argued against Microsoft's position. Chief Justice John Roberts recused himself from the case because of Microsoft holdings.
+

@@ -1,0 +1,21 @@
+US Supreme Court rules against Microsoft in i4i patent case
+
+The US Supreme Court has let stand a US$300 million patent infringement ruling against Microsoft, granting a victory on Thursday to i4i, which filed the lawsuit back in 2007.
+
+The legal battle already forced Microsoft to modify certain functionality in its Word application in 2009, when the US District Court for the Eastern District of Texas ruled in favor of Toronto-based i4i and told Microsoft to stop selling Word in the US
+
+At issue was an i4i patent that covers technology that lets users manipulate the architecture and content of a document, which i4i alleged Microsoft infringed upon by letting Word users create custom XML documents. Microsoft removed the feature.
+
+"This case raised an important issue of law which the Supreme Court itself had questioned in an earlier decision and which we believed needed resolution. While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation," Microsoft said in a statement.
+
+The case has been closely watched by legal experts because Microsoft, backed by other major technology vendors like Google and Apple, had argued in favor of watering down the usual standard required for companies to successfully defend themselves from patent infringement accusations.
+
+Currently under US law, a patent is presumed valid and alleged infringers bear the burden of establishing otherwise "by clear and convincing evidence." However, Microsoft sought to have that standard loosened, so that the invalidity of the i4i patent could be established "by a preponderance of the evidence."
+
+Requiring defendants to establish "clear and convincing evidence" hurts innovation because it unduly shields dubious inventions from legal challenges after the US Patent and Trademark Office has granted them patent protection, Microsoft argued.
+
+But the US Supreme Court, in an 8-0 decision in which Chief Justice John Roberts didn't participate, sided with the lower court's decision.
+
+"According to Microsoft, a defendant in an infringement action need only persuade the jury of an invalidity defense by a preponderance of the evidence. In the alternative, Microsoft insists that a preponderance standard must apply at least when an invalidity defense rests on evidence that was never considered by the [U.S. Patent and Trademark Office] in the examination process. We reject both contentions," wrote Associate Justice Sonia Sotomayor in court's opinion.
+
+I4i didn't immediately respond to a request for comment. 

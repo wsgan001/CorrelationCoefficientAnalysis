@@ -1,0 +1,13 @@
+Supreme Court Rules Against Microsoft in Its Appeal of $240M Verdict
+
+In a big loss for Microsoft Corp., the U.S. Supreme Court has refused to disturb the standard of proof needed to establish that an infringement plaintiff¡¦s patent is invalid.
+
+The unanimous opinion (PDF) by Justice Sonia Sotomayor holds that an invalidity defense must be proven by ¡§clear and convincing evidence." Justice John G. Roberts Jr. did not participate in the case.
+
+Microsoft had contended it should be able to challenge the patent held by the plaintiffs¡Xi4i Limited Partnership and Infrastructures for Information Inc.¡Xby the easier ¡§preponderance of the evidence¡¨ standard. Microsoft was seeking to overturn a $240 million verdict, which has swelled to at least $290 million with interest, for infringing a patent on editing custom XML documents.
+
+The Supreme Court interpreted a Section of the Patent Act of 1952 that says ¡§a patent shall be presumed valid¡¨ and puts the burden of proof on the person who asserts invalidity.
+
+Even before the law¡¦s adoption, the common law required the clear and convincing evidence standard, Sotomayor said. ¡§Basic principles of statutory construction require us to assume that Congress meant to incorporate ¡¥the cluster of ideas¡¦ attached to the common law term it adopted,¡¨ she wrote.
+
+"For those of us for whom it is relevant,¡¨ Sotomayor added in a footnote, "the legislative history ... provides additional evidence that Congress meant to codify the judge-made presumption of validity, not to set forth a new presumption of its own making.¡¨

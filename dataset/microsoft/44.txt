@@ -1,0 +1,19 @@
+Supreme Court Rejects $290M Microsoft Patent Appeal
+
+Microsoft lost a major legal appeal this week, after the Supreme Court upheld a U.S. court ruling that went against the world¡¦s largest software company in its battle with Toronto-based i4i, according to several media reports.
+
+The Supreme Court issued its ruling against Microsoft Corp. on June 9, ¡§rejecting its appeal of a record $290 million jury verdict for infringing a small Canadian software firm's patent,¡¨ Reuters said on Thursday.
+
+The opinion, written by Justice Sonia Sotomayor, was unanimously upheld by an 8-0 vote, rejecting Redmond, Washington-based Microsoft¡¦s argument that a ¡§lower standard proof¡¨ involving a ¡§preponderance of the evidence¡¨ would make some patents more vulnerable to legal challenge while promoting innovation and competition, Reuters reported.
+
+i4i was founded in 1993 by Michel Vulpe and provides collaborative content technologies focusing on XML templates. The legal battle between Microsoft and i4i first began in 2007, and centers on technology for managing custom XML templates for documents, a feature Microsoft originally introduced back in Microsoft Office 2003. 
+
+Sotomayor said the court rejected Microsoft¡¦s contention that a defendant need only persuade a jury of a patent invalidity defense by a preponderance of the evidence.
+
+¡§Relying on the undisputed fact that the S4 software was never presented to the Patent and Trademark Office (PTO) during its examination of the patent application, Microsoft objected to i4i¡¦s proposed jury instruction that the invalidity defense must be proved by clear and convincing evidence,¡¨ wrote Sotomayor in her 20-page opinion.
+
+In the decision, Sotomayor frequently referenced the Patent Law of 1952, which states ¡§an alleged infringer may assert the invalidity of the patent ¡V that is, he may attempt to prove that the patent never should have issued in the first place.¡¨
+
+Microsoft expressed disappointment in the decision, according to this company statement, published by The Wall Street Journal: ¡§While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system,¡¨ a company spokesman said in a statement.
+
+Meanwhile, President Obama and i4i opposed Microsoft¡¦s position ¡§and said Congress had accepted the standard in effect for at least the past 28 years, that it was correct, and that it should be upheld by the Supreme Court,¡¨ according to the Reuters report.

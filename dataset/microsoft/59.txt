@@ -1,0 +1,51 @@
+Microsoft Loses U.S. Supreme Court Decision, Fined $290M USD
+
+Toronto-based i4i (Infrastructures for Information) Inc., a small software developer, has just been handed the mother of all paydays by the United States Supreme Court.  The highest court in the U.S. ruled against Microsoft in a case involving Microsoft Corp.'s (MSFT) use of XML file reading technology that was used in Microsoft Office (MSO) 2003 and 2007, and which i4i held a patent on.
+
+The case was a critical loss for Microsoft, the world's largest software company, and was the world's largest patent infringement verdict ever affirmed on appeal, according to Microsoft's lawyers.
+
+I. Four Years in the Courts
+
+The case has been dragging through U.S. courts for four years now, having first been filed in March 2007.  It deals specifically with No. 5,787,449, which was filed in 1998.  
+
+In 2007 -- nine years after i4i filed their patent -- Microsoft included an implementation of an XML parsing software, which followed the implementation detailed in the patent.  The parser allowed for new XML-driven implementation of files in Word and other MSO software, accessible by MSO 2003 and MSO 2007.
+
+However, Microsoft did not respond to i4i's requests to license the patent.  So i4i took Microsoft to federal court in Texas.  Microsoft lost a judicial ruling in May 2009 and was ordered to pay $200M USD in royalties.  
+
+Microsoft appealed to the U.S. Federal Circuit Court of Appeals only to lose yet again in December 2009.  The company was smacked with extra fines including a $40M USD fine for "willful" infringement, taking the damages up to $300M USD.  Determined Microsoft vowed to challenge the verdict at the Supreme Court level, an unusual decision for copyright cases.
+
+Meanwhile it quietly modified Office 2010 to no longer use the XML reading technology, so as to avoid an injunction that would ban MSO sales.
+
+II. The Better Evidence or the Conclusive Evidence?
+
+At the Supreme Court, Microsoft's lawyers argued that companies should be allowed a "lower standard of proof", when seeking to invalidate opponents' software patents.  Microsoft argued that a "preponderance of the evidence" should be sufficient to invalidate the patent.  In simpler terms, this would mean that a company would merely have to convince a jury that it had better evidence that the patent was invalid, versus the patent holder's evidence that the patent was reasonable.
+
+This concept is a major departure from Congressional imposed regulations, which require "clear and convincing" evidence that a patent was invalid.  In other words, in patent disputes companies not only have to provide better evidence of a patent's invalidity, they have to prove that it's invalid.
+
+Microsoft also requested a new trial, in light of the proposed rules changes.
+
+III. Supreme Court Tells Microsoft "No Way"
+
+The Supreme Court ruled against Microsoft, delivering its decision on Thursday in a case titled "Microsoft Corp v. i4i Limited Partnership and Infrastructures for Information Inc, No. 10-290".  The decision was a unanimous one, with all eight acting judges agreeing that Microsoft's proposal was unacceptable.  Chief Justice John Roberts, who owns Microsoft stock, recused himself from the case.
+
+Justice Sonia Sotomayor, appointed by President Barack Obama, delivered the opinion.  In it she pointed out that the current rules date back over 30 years and have remained untouched during several subsequent Congressional patent reforms.  She writes that when Congress specifies a standard of proof, its choice should generally be enforced.
+
+The verdict is a let down for Google Inc. (GOOG), Yahoo Inc. (YHOO) and trade groups such as the Computer & Communications Industry Association (CCIA), all of whom were hoping to have the standard overturned.  It is a victory for Bayer AG (ETR:BAYN), 3M Comp. (MMM), and groups representing biotechnology companies and pharmaceutical manufacturers, all of whom supported i4i.
+
+Ultimately, when viewed from an objective perspective, the ruling is a mixed bag.  On the one hand it does make it harder to invalidate "bad" patents, as Microsoft claims.  On the other hand, by requiring extensive proof it protects small patent holders against giants like Microsoft and Google, which in theory could deliver slightly superior arguments thanks to their large and expensive legal teams, even in patent cases where they were ostensibly in the wrong.
+
+Michel Vulpe, i4i's founder and chief technology officer, told Reuters Canada, "We're very pleased that the court did the right thing and that the decision was unanimous."
+
+By contrast Microsoft spokesperson Kevin Kutz expressed disappointment, commenting, "While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation."
+
+Max Grant, a patent law attorney at Latham & Watkins, a firm not involved in the case, is quoted as commenting, "The Supreme Court wisely left alone a complex area of the law that balances many competing interests."
+
+Latham & Watkins is known for representing small patent holders.
+
+IV.  What's Next?
+
+Microsoft already lost one filing to the U.S. Patent and Trademark Office (USPTO) looking to invalidate i4i's patent, in addition to its judicial system losses.  It's currently trying another USPTO complaint, but prospects for that filing look dim.
+
+Microsoft, which typically runs a large cash surplus, set aside money to cover a possible Supreme Court loss, so its business should be relatively unaffected.
+
+If Microsoft loses its final USPTO filing, it will have to pay a base judgment of $290M USD, according to the Supreme Court ruling.  It will also likely have to license i4i's patent, given that the company still supports products that contain the feature such as MSO 2003 and MSO 2007, despite removing the feature from its latest products.  Licensing could be settled privately, or might even result in yet another court battle.

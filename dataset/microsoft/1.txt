@@ -1,0 +1,32 @@
+Microsoft must pay $290m for patent infringement
+
+The US Supreme Court has denied an appeal by Microsoft against a $290m verdict for infringing a small Canadian company's patent.
+
+The company, i4i, sued Microsoft in 2007, saying it owned the technology behind a text manipulation tool used in Microsoft's Word application.
+
+The technology gave Word 2003 and Word 2007 users an improved way of using a document's contents.
+
+Lower courts had said Microsoft wilfully breached the patent.
+
+They ordered the world's biggest software maker to pay up, and to stop selling versions of Word containing the infringing technology.
+'Clear and convincing'
+
+Microsoft claimed a judge used the wrong standard in instructing the jury that decided on the award, and said the judgement should be overturned.
+
+It pushed for a lower standard of proof of infringement to be used instead, arguing that the level of proof usually required to overturn a patent in the US was too high.
+
+Defendants in US patent suits are required to show that 70-80% of the "clear and convincing" evidence supports their case.
+
+Microsoft argued that they should only need to show a "preponderance" of the evidence - more than 50% - was in its favour.
+
+However, the Supreme Court said the "clear and convincing" standard was the correct one.
+
+Prior to the decision, President Obama's administration had called for the court to uphold the higher standard of proof.
+
+Microsoft said in a statement: "While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation."
+
+Microsoft now sells versions of Word that do not contain the technology in question.
+
+Loudon Owen, chairman of i4i, welcomed the outcome: "Microsoft tried to gut the value of patents by introducing a lower standard for invalidating patents.
+
+"It is now 100% clear that you can only invalidate a patent based on 'clear and convincing' evidence."

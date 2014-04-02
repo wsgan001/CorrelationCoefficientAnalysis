@@ -1,0 +1,29 @@
+High court: Microsoft must pay $290m in patent case 
+
+SEATTLE ¡V Microsoft has lost a Supreme Court patent case and must pay $290 million to tiny Toronto software company i4i.
+
+The court ruled Thursday in an opinion written by Justice Sonia Sotomayor with six judges joining. Three judges concurred. Chief Justice John Roberts took no part in the ruling because he owns shares of Microsoft stock.
+
+i4i originally sued Microsoft claiming that Microsoft Word had included an XML editing feature that i4i invented.
+
+Microsoft spokesman Kevin Kutz released this statement: ¡§While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation.¡¨
+
+A federal jury in Texas in 2009 decided against Microsoft and awarded $200 million in damages, which was then raised to $290 million by a U.S. District Court judge who affirmed the decision.
+
+After a federal appeals court affirmed the lower court¡¦s decision and denied Microsoft¡¦s request for a review, the company appealed to the nation¡¦s highest court. It was the largest patent verdict to withstand appellate review in U.S. history.
+
+The legal issue in dispute before the Supreme Court was how juries weighed evidence in patent disputes.
+
+Microsoft contended that in order to prove a patent is not valid, the Texas jury should have been asked to rule based on a ¡§preponderance of evidence,¡¨ rather than the higher standard of proof, ¡§clear and convincing evidence.¡¨ The patent office, Microsoft argued, had not considered new evidence when it granted i4i¡¦s patent.
+
+Microsoft also said i4i forfeited its claim to the XML editing feature because the software had been sold more than a year before i4i filed the application.
+
+Several large companies filed amicus briefs in support of Microsoft, including some competitors: Apple, Google, Cisco, Intuit, Facebook, General Motors, Wal-Mart, Toyota, Netflix, Intel, Verizon, Hewlett-Packard, HTC, SAP and Teva Pharmaceuticals.
+
+The U.S. government and many companies supported i4i¡¦s position.
+
+Microsoft chief counsel Brad Smith said Tuesday before the ruling that the company had already set aside the $290 million to pay the judgment pending the outcome of the Supreme Court ruling.
+
+Smith said earlier that Microsoft pursued the case to the nation¡¦s highest court on principle. ¡§We thought there was a principle ¡V and $290 million ¡V at stake. It is the single largest patent verdict to withstand appellate review in the history of the country.¡¨
+
+¡§The ruling will be important in some specific cases,¡¨ he said.

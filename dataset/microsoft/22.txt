@@ -1,0 +1,19 @@
+Supreme Court rejects Microsoft appeal of patent infringement award
+
+The U.S. Supreme Court on Thursday voted 8-0 against a request by software giant Microsoft to overturn a $290 million judgment in a patent infringement lawsuit.
+
+Redmond was appealing a 2009 jury verdict in a case brought by i4i Inc., a Toronto technology company that alleged Microsoft violated a patent regarding document editing that was incorporated into some versions of Word.
+
+(Also see: Google loses Linux patent lawsuit, ordered to pay $5 million in damages)
+
+Microsoft countered that the patent i4i claimed to own was based on already existing technology. It further argued for a lower standard of evidence for proving that a patent is invalid. A patent law passed by Congress in 1952 set this standard as "clear and convincing."
+
+In presenting Microsoft's appeal to the Supreme Court in April, Redmond attorney Thomas Hungar urged that the standard be bumped down to "preponderance of the evidence."
+
+Clearly Hungar got no takers on the high court bench. Justice Sonia Sotomayor, writing the court's unanimous decision, said the patent rule established by Congress nearly six decades ago is the law of the land.
+
+¡§Any recalibration of the standard of proof remains in its hands,¡¨ she wrote.
+
+In a statement reacting to the Supreme Court's ruling, Microsoft spokesman Kevin Kutz said, "While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system."
+
+Chief Justice John Roberts sat out this one because his family owns more than $100,000 in Microsoft stock.

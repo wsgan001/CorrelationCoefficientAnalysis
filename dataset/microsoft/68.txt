@@ -1,0 +1,31 @@
+Microsoft loses i4i case, must pay $290 million
+
+The U.S. Supreme Court on Thursday ruled Microsoft must pay  $290 million to a small Toronto software company i4i over a patent action which claimed Microsoft Word had included an XML editing feature that i4i invented. 
+
+"While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation," Microsoft spokesman Kevin Kutz said.
+
+But i4i's Chairman Loudon Owen said: "It was unanimous. That was striking."
+
+"It is one of the more important business law decisions made by the Supreme Court in decades and it's a watershed moment for patents," Owen added.
+
+The i4i sued the world's largest software company Microsoft Corp. for willful infringement of the patent claiming an improved method for editing computer documents. 
+
+But Microsoft counterclaimed and sought a declaration that the patent was invalid with clear and convincing evidence which precludes patent protection for any "invention" that was "on sale in this country" more than one year prior to the filing of a patent application.
+
+They all agreed that i4i had sold a software program known as S4 in the United States more than a year before filing its patent application. However, they disagreed over whether that software embodied the invention claimed in i4i's patent.
+
+Because the S4 software was never presented to the Patent and Trademark Office (PTO) during its examination of the patent application, Micro-soft objected to i4i's proposed jury instruction that the invalidity defense must be proved by clear and convincing evidence.
+
+Nevertheless, the District Court gave that instruction, rejecting Microsoft's alternative instruction proposing a preponderance of the evidence standard. The jury found that Microsoft willfully infringed the i4i patent and had failed to prove the patent's invalidity.
+
+The court said it rejects Microsoft's contention that a defendant need only persuade the jury of a patent invalidity defense by a preponder-ance of the evidence. Where Congress has prescribed the governing standard of proof, its choice generally controls.
+
+The court added that the rejected is Microsoft's argument that a preponderance standard must at least apply where the evidence before the factfinder was not before the PTO during the examination process.
+
+The court also explained they are in no position to judge the comparative force of theparties' policy arguments as to the wisdom of the clear-and-convincing-evidence standard that Congress adopted.
+
+Click here to view "Microsoft Corp. v. i4i Ltd. Partnership"
+
+Owen said this is "one of the most significant business cases" the court has decided in decades.
+
+Microsoft said it had set money for the verdict. Its share price dipped as the decision was released, but quickly recovered.

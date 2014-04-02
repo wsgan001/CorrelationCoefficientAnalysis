@@ -1,0 +1,26 @@
+Microsoft loses U.S. top court case on Canadian patent
+
+Read more: http://www.montrealgazette.com/technology/Microsoft+loses+court+case+Canadian+patent/4919100/story.html#ixzz1PUuMI6ii
+
+
+WASHINGTON ¡V The U.S. Supreme Court ruled against Microsoft Corp. on Thursday in its appeal of a record $290-million jury verdict for infringing a small Canadian software firm¡¦s patent.
+
+The justices unanimously upheld a U.S. appeals court¡¦s ruling that went against the world¡¦s largest software company in its legal battle with Toronto-based i4i.
+
+The high court rejected Microsoft¡¦s argument to adopt a lower standard to replace the long-standing requirement that a defendant in a patent infringement case prove by clear and convincing evidence that a plaintiff¡¦s patent is invalid.
+
+¡§We consider whether¡¨ a section of the Patent Act of 1952 ¡§requires an invalidity defence to be proved by clear and convincing evidence. We hold that it does,¡¨ Justice Sonia Sotomayor wrote in the court¡¦s 20-page opinion.
+
+Redmond, Wash.-based Microsoft argued that a lower standard of proof involving a ¡§preponderance of the evidence¡¨ would make some patents more vulnerable to legal challenge while promoting innovation and competition.
+
+The Obama administration and i4i opposed Microsoft¡¦s position and said Congress has accepted the standard in effect for at least the past 28 years, that it was correct, and that it should be upheld by the Supreme Court.
+
+I4i said Microsoft sought a radical change in patent law and that any change should come instead from Congress, which has been considering patent legislation.
+
+The legal battle began in 2007 when i4i sued Microsoft. A federal jury awarded $290 million to i4i after finding that Microsoft had infringed its patent relating to text manipulation software in 2003 and 2007 versions of Word, Microsoft¡¦s word processing application.
+
+A U.S. appeals court upheld the award and the U.S. Patent and Trademark Office upheld the validity of the i4i patent. Microsoft continued to dispute those decisions, but removed the contested features from its current software.
+
+In appealing to the Supreme Court, Microsoft said it wanted a new trial. But the justices ruled that the appeals court was correct.
+
+Read more: http://www.montrealgazette.com/technology/Microsoft+loses+court+case+Canadian+patent/4919100/story.html#ixzz1PUuNZvmp

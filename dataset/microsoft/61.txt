@@ -1,0 +1,20 @@
+David Over Goliath? Microsoft Loses Patent Case To i4i
+
+A tiny Toronto-based software company took on the biggest software company of them all, Microsoft, and won.
+
+The Supreme Court recently upheld a Federal Circuit Court of Appeals ruling against Microsoft, which denied the company's desire to lower the standards for invalidating patents. i4i and Microsoft have been sparring legally since 2007, when i4i sued Microsoft for infringing on its patent related to text manipulation software.
+
+
+After a trial in 2009 where a federal jury said Microsoft did infringe on i4i, the Honorable Leonard Davis  awarded the tinier company $290 million in damages, which has since increased to $300 million. Following this, Microsoft appealed to the U.S. appeals court, which upheld the award. The U.S. Patent and Trademark Office also upheld the validity of the i4i patent. As a response to this, Microsoft appealed to the Supreme Court.
+
+Microsoft alleged to the Supreme Court that i4i's patent was invalid. The company tried to appeal using Section 282 of the Patent Act of 1952, stating there should only be a "preponderance of evidence" to support its patent invalidity defense. This means Microsoft would have only needed half of the evidence in its favor to invalidate a patent. 
+
+Instead, the Supreme Court unanimously decided in i4i's favor. Justice Sonia Sotomayor wrote the opinion, while Justices Stephen Breyer and Clarence Thomas wrote concurring opinions. Sotomayor said this patent law has been upheld for 30 years and there was no reason to change it now.
+
+"Microsoft tried to gut the value of patents by introducing a lower standard for invalidating patents. It is now 100 percent clear that you can only invalidate a patent based on clear and convincing evidence," Loudon Owen, i4i Chairman, said in a statement.
+
+Going up against Microsoft's massive team of lawyers for several years running was no easy task said i4i founder and co-inventor. In s statement, he said the court-case is part of the company's 16-year journey and can help i4i grow the way he and other i4i executives intended.
+
+"Our army was small but mighty and we are grateful to our team, partners, investors, legal counsel, those who filed amici briefs, and everyone supporting the rights of patent holders. Naturally, we are particularly appreciative of our shareholders who continue to support us," Vulpe said.
+
+In an emailed statement, Microsoft's Kevin Kutz said the outcome is not what the company hoped for but it will continue to advocate for changes to the law that will prevent abuse of the patent system.

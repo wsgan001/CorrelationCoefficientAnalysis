@@ -1,0 +1,22 @@
+Microsoft Loses at Supreme Court, and Big Tech Is Bummed. Too Bad
+
+Read more: http://www.bnet.com/blog/technology-business/microsoft-loses-at-supreme-court-and-big-tech-is-bummed-too-bad/11164#ixzz1PUclrc6g
+
+
+When the U.S. Supreme Court upheld i4i¡¦s patent infringement case against Microsoft (MSFT) yesterday, it did more than ensure that the software giant would have to write a $290 million check to the small Canadian company. It left in place a decades-old interpretation of law that big software companies have long hated.
+
+¡§Microsoft had worked hard to bring this issue in front of the court, mainly because it¡¦s trying to curb the number of patent lawsuits it faces every year,¡¨ says Steven Rizzi, a partner in the IP litigation practice of law firm Foley & Lardner. ¡§What the Supreme Court did was put its stamp of approval on what has been the practice for 30 years now.¡¨
+
+Prove your point
+
+In contention was a legal technicality called the standard of proof. Depending on the type of case, the hurdle to proving your case can be higher or lower. Court cases generally use one of three standards:
+
+    * Preponderance of the evidence ¡X Most often seen in civil cases, someone has to show that their position is, on the balance, more likely to be true than not.
+    * Clear and convincing ¡X This requires that the evidence is significantly more likely to be true than not.
+    * Beyond a reasonable doubt ¡X Watch enough court procedural dramas on television, or take a basic civics class, and you come across this concept, which only appears in criminal cases. A prosecutor must show that there¡¦s no other reasonable explanation for the facts other than the defendant¡¦s guilt.
+
+Microsoft had raised some prior art ¡X public information that may have anticipated the patent application ¡X never considered by the U.S. Patent and Trademark Office during the i4i examination. The company¡¦s lawyers claimed that the material showed that the invention wasn¡¦t original enough to deserve a patent.
+
+Under precedent, Microsoft should have met the clear and convincing standard. ¡§Microsoft wanted to argue that because [the USPTO] didn¡¦t consider it, the burden of proof should be less,¡¨ says Henry Bunsow, a partner and co-chair of IP litigation at law firm Dewey & LeBoeuf. In other words, Microsoft wanted the court to lower the bar for it.
+
+Read more: http://www.bnet.com/blog/technology-business/microsoft-loses-at-supreme-court-and-big-tech-is-bummed-too-bad/11164#ixzz1PUcnDn80

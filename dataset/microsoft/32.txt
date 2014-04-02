@@ -1,0 +1,39 @@
+Microsoft must pay Toronto company $290 million
+
+A real-life David and Goliath story played out in the U.S. Supreme Court Thursday when the high court upheld a previous ruling that tech heavyweight Microsoft pay $290 million to a Canadian software company for patent infringement.
+
+Toronto-based i4i Inc. will be awarded the money after the court refused to throw out an earlier ruling that found Microsoft willfully infringed on a patent in its Microsoft Word software.
+
+Louden Owen, i4i's chairman, told CTV News that the company is gratified with the decision and called it one of the most important business law cases in decades.
+
+"The world has moved into a knowledge economy and when you invent something and innovate, what do you actually own?" Owen said. "And what the Supreme Court has said is if you get a patent and you're the innovator and inventor, it has significance and you have very strong rights."
+
+The case started when i4i Inc. sued Microsoft in 2007 claiming it owned the technology behind a tool used in Microsoft Word.
+
+The tool, co-created by i4i founder Michel Vulpe in the early 1990s, gave users of Word 2003 and 2007 an improved way to edit XML, the computer code that tells the program how to interpret and display a document's contents.
+
+Vulpe told CTV News that because he believed the patent he had would protect him he even showed Microsoft how the technology worked.
+
+But in 2002, Vulpe said Microsoft started using it without permission or payment.
+
+Microsoft claimed a judge used the wrong standard in instructing the jury that came up with the award and they wanted the judgment erased.
+
+Jay Greene, a senior writer for CNET news, said Microsoft was testing the strength of patent laws.
+
+"What Microsoft was trying to do here was change the standards in which patent laws would be adjudicated. Microsoft wanted to lower that, make it easier for companies accused of infringing on patents to get out of it," he told CTV News Channel Thursday night.
+
+Instead, Microsoft was ordered to pay i4i and stop selling versions containing the infringing technology.
+
+The landmark decision has broad implications for patents as it essentially upholds the basis for decades of U.S. patent decisions.
+
+Justice Sonia Sotomayor, who wrote the court's opinion, said the courts have interpreted the law the same way for 30 years and Congress has often amended patent law.
+
+"Not once, so far as we (and Microsoft) are aware, has it even considered a proposal to lower the standard of proof," Sotomayor said.
+
+Owen said he thinks the Supreme Court respected the fundamental role of the patent office.
+
+"We firmly believe patents have value and should have value," he said.
+
+Several high-powered companies supported Microsoft, including Apple, Google and Cisco Systems.
+
+Microsoft now sells versions of Word that do not contain the technology in question. 

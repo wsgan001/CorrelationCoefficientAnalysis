@@ -1,0 +1,18 @@
+Ouch: Microsoft $300M Patent Fine, Word Sales Banned
+
+Software giant is forced to cough up millions after being found guilty of patent infringements in one of the biggest such fines in US history.
+The US Supreme Court has ruled "unanimously" in favour of Canadian based i4i in its four year patent battle against Microsoft, who sued the giant for "willful infringement" of its patent '449 which relates to a text manipulation tool used in Microsoft's Word.
+
+The court awarded  US$200 million in damages (now upwards of $300 million with enhancements and interest) to the small tech company, in what is the largest patent infringement judgment ever in US history, heard by the eight Associate Justices of the Supreme Court on April 18 last.
+
+Microsoft has now been ordered by Judge Leonard Davis to stop selling Word applications containing the technology by permanent injunction, which Microsoft says it has already obeyed.
+
+This followed an appeal by Microsoft to the Federal Circuit Court of Appeals on a 2009 ruling originally made against it, as well as a rehearing heard last year.
+
+Microsoft's request to lower the standard of proof, "for challenges to the validity of a properly issued patent" was also denied.
+
+Steve Ballmer's giant had also directly cited i4i's бе449 patent in four separate patent applications, and indirectly in approximately 100 other patent applications.  
+
+This demonstrated that "Microsoft expressly seeks to build on i4i's invention in its own applications for patents filed at the US Patent and Trademark Office,"  said Loudon Owen, Chairman of i4i.
+
+It also " tried to gut the value of patents by introducing a lower standard for invalidating patents. It is now  100 percent clear that you can only invalidate a patent based on "clear and  convincing" evidence", he added. 

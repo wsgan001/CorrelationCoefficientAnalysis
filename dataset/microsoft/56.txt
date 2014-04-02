@@ -1,0 +1,27 @@
+i4i Wins $290M Patent-Infringement Case Against Microsoft
+
+On Thursday, Microsoft lost a major patent-infringement case in the U.S. Supreme Court, which left standing the largest patent award ever upheld on appeal -- a fine of $290 million. The case could have established a new threshold of evidence required to overturn a patent.
+
+In 2007, a small Canadian company called i4i filed suit against the software Relevant Products/Services giant, alleging patent infringement in Word 2003 and 2007 because of a tool that enabled document manipulation. A 2009 decision by a U.S. District Court in Texas ruled in favor of i4i, and Microsoft was forced to drop the XML feature in order to continue selling Word while it appealed.
+
+'Preponderance' or 'Clear and Convincing'?
+
+Microsoft asked the Supreme Court to overturn the ruling, largely on the grounds that the wrong jury instructions had been given by the judge.
+
+The Redmond, Wash.-based company contended the patent was invalid because patent protection cannot be sought if an invention has been on sale in this country more than one year before filing a patent application to protect that invention.
+
+Both parties agreed that i4i sold a software program called S4 more than a year before the patent filing, but there was disagreement about whether that software contained the invention presented in i4i's patent. Microsoft said S4 was never examined by the Patent and Trademark Office (PTO) as "prior art" during the patent-application process.
+
+Microsoft said this was grounds to invalidate the patent, and that it only needed to present "a preponderance" or majority of evidence, rather than the stricter standard of "clear and convincing evidence," which it said was too high a requirement.
+
+Amicus Briefs
+
+Despite Microsoft's objections, the jury in the District Court had been instructed by the judge, at the urging of i4i's lawyers, that only the "clear and convincing evidence" standard could be used.
+
+In an unanimous verdict, the Supreme Court found that the current burden-of-proof standard of "clear and convincing evidence" should remain, as the lower court found. It also said that only Congress can change the standard of proof.
+
+After the verdict, Microsoft said that, while the "outcome is not what we had hoped for," the company will continue to press for changes in patent law to "prevent abuse of the patent system."
+
+This issue goes to the heart of patent suits and defenses, and both i4i and Microsoft had a variety of heavyweights filing amicus briefs in their support Relevant Products/Services. One of i4i's was the PTO, which said that "because the practical effect of a successful challenge to the validity of a patent is to overturn the PTO's administrative decision, the United States has a substantial interest in the question presented."
+
+Also in i4i's corner were 3M, Proctor and Gamble, General Electric, Genentech, Eli Lilly, BP and 19 venture-capital companies. Briefs favoring Microsoft's position were filed by Apple, SAP, Google Relevant Products/Services, EMC, Cisco and others. 

@@ -1,0 +1,57 @@
+How Microsoft Supreme Court loss also hurts Apple, Google
+
+
+
+While Thursday's Supreme Court ruling against Microsoft rested on a subtle distinction in patent cases, the issue was so provocative that entire industries lined up on both sides of the fight.
+
+Microsoft won support from tech frenemies Apple, Google, even open-source advocate Electronic Frontier Foundation.
+
+On the other side, pharmaceutical and manufacturing giants Genentech, Bayer, Caterpillar and 3M aligned themselves with i4i, a speck of a company that sued Microsoft for patent infringement over an obscure feature in Word.
+
+Microsoft lost the U.S. Supreme Court case in a unanimous decision Thursday. It will have to pay Toronto-based i4i $290 million. The technology industry also lost the chance to build a stronger defense against intellectual-property lawsuits.
+
+"It's disappointing for the IT industry. There are a lot of marginal patents out there, and the opposite ruling would have made it a more level playing field for IT companies in dealing with marginal patents," said Michael Barclay, attorney and fellow at the Electronic Freedom Foundation in San Francisco.
+
+After losing first in a federal court in Texas, then in an appeals court, Microsoft asked the Supreme Court to review the nuance of what constitutes proof in disputes over patents, rights granted by a federal agency that protect new inventions from being freely copied or stolen by others.
+
+Microsoft contended that in order to prove a patent is not valid, the Texas jury should have been asked to rule based on a "preponderance of evidence," rather than the higher standard of proof, "clear and convincing evidence." A "preponderance" implies 51-49; "clear and convincing" connotes 75-25, Barclay said.
+
+The U.S. Patent and Trademark Office, Microsoft argued, had not considered new evidence when it granted i4i's patent. For instance, Microsoft said i4i forfeited its claim to the feature in Word because the i4i software had been sold more than a year before the company filed a patent application. According to patent law, a product that has been sold more than a year before an application is filed does not qualify for a patent.
+
+In an opinion written by Justice Sonia Sotomayor, the Supreme Court ruled that the standard of evidence for deciding patent fights should be decided by Congress, not the court.
+
+"... Not once, so far as we (and Microsoft) are aware, has it [Congress] even considered a proposal to lower the standard of proof," Sotomayor wrote. "... Any recalibration of the standard of proof remains in its hands."
+
+The Supreme Court did depart from the lower appellate court in ruling that, "When warranted, the jury may be instructed to consider that it has heard evidence that the PTO [Patent and Trademark Office] had no opportunity to evaluate before granting the patent."
+
+Sotomayor wrote later in the opinion of Microsoft's argument based on past Supreme Court rulings, "Squint as we may, we fail to see the qualifications that Microsoft purports to identify in our cases."
+
+Justices Antonin Scalia, Anthony Kennedy, Ruth Bader Ginsburg, Samuel Alito and Elena Kagan joined in Sotomayor's opinion. Justice Stephen Breyer wrote a concurring opinion, with Scalia and Alito, that focused on evidentiary standards. Justice Clarence Thomas wrote another separate concurring opinion that Congress did not codify a standard of proof when it passed patent law. Chief Justice John Roberts took no part in the deliberations because he owns shares of Microsoft stock.
+
+"It was unanimous. That was striking," said Loudon Owen, i4i's chairman. "It is one of the more important business-law decisions made by the Supreme Court in decades and it's a watershed moment for patents."
+
+Microsoft spokesman Kevin Kutz said in a statement, "While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation."
+
+The pharmaceutical industry was both pleased and relieved, said Hans Sauer, deputy general counsel for the Biotechnology Industry Organization in Washington, D.C.
+
+"You can't have a sustainable business if you're a biotech company, especially in your earlier phase of your life, unless you can count on patents as enduring instruments," Sauer said.
+
+The tech industry, on the other hand, is awash in patents. Barclay, the Electronic Freedom Foundation attorney, noted that big pharmaceutical companies may have one patent covering a drug and one for the making of the drug.
+
+Compare that with the IT industry, he said, where "there are probably at least 100,000 patents that cover a personal computer. There's no way to get patents to sell a product because you can't research all the possible patents. It can't be done. And if a lot of the patents are marginal and sketchy, you have a big problem."
+
+i4i, a 17-year-old private company that makes software for managing data, has 30 employees in Toronto; Microsoft's global work force totals 89,000.
+
+The company lodged its suit against Microsoft in 2007. The Texas jury verdict came in 2009, along with an award of $200 million in damages. The amount was then raised to $290 million by a U.S. District Court judge who affirmed the decision.
+
+Besides being hit with damages, Microsoft was barred from selling previous versions of Word that contained the XML editing feature. Microsoft removed the feature from new versions of Word.
+
+Owen, i4i's chairman, plans to use the $290 million to expand the company's business. "It's hard to build a business when you're operating under the cloud of uncertainty," he said.
+
+Microsoft chief counsel Brad Smith said Tuesday before the ruling that the company had already set aside the money to pay the judgment, pending the Supreme Court outcome.
+
+Smith said Microsoft pursued the case to the nation's highest court on principle. "We thought there was a principle -- and $290 million -- at stake," he said. "It is the single largest patent verdict to withstand appellate review in the history of the country."
+
+"The ruling will be important in some specific cases," he said Tuesday.
+
+Microsoft's stock closed at $23.96 per share on Thursday, up 2 cents.

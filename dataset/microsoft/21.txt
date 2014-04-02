@@ -1,0 +1,42 @@
+US Supreme Court rules against Microsoft in i4i patent case
+
+Read more: http://www.v3.co.uk/v3-uk/news/2077944/supreme-court-rules-microsoft-i4i-patent#ixzz1PUmgN3BV
+The V3 App store has games, downloads and more. Visit the store now.
+
+
+The US Supreme Court has delivered a landmark ruling for patent law after finding against Microsoft in its ongoing battle with Canadian software developer i4i.
+
+The court ruled unanimously that the intellectual property of i4i is infringed by software in Microsoft's Office suite, and rejected Microsoft's argument that the standards of proof for determining patents should be changed.
+
+Read more: http://www.v3.co.uk/v3-uk/news/2077944/supreme-court-rules-microsoft-i4i-patent#ixzz1PUmhMXy7
+The V3 App store has games, downloads and more. Visit the store now.
+
+
+"The court rejects Microsoft's contention that a defendant need only persuade the jury of a patent invalidity defence by a preponderance of the evidence," said the Supreme Court Microsoft v i4i ruling (PDF).
+
+"Where Congress has prescribed the governing standard of proof, its choice generally controls. Congress has made such a choice here."
+
+The ruling means a payday in excess of $290m for i4i, and will reassure many in the development community that their inventions will be protected.
+
+Microsoft's attempts to change the evidential requirements for patent provision had worried many in the industry and government.
+
+"This case raised an important issue of law which the Supreme Court itself had questioned in an earlier decision and which we believed needed resolution," said Microsoft in a statement.
+
+"While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation."
+
+Microsoft's battle with i4i started in 2007, after code developed by the Canadian firm for XML's handling of documents appeared in the Microsoft Office suite.
+
+Microsoft lost its original case, and faced an injunction on Office sales, but has fought the battle right up to the Supreme Court.
+
+"This was a pivotal case; Microsoft tried to dramatically change the foundation of patent law," Loudon Owen, chairman of i4i, told V3.co.uk.
+
+"We believe the folks on our side are the innovators, the people who create things, while the other side wanted to protect its bottom line."
+
+Owen praised the support i4i had received from the technology industry, after more than 270 companies wrote to the Attorney General about the case.
+
+The company is now focused on building better code and protecting its intellectual property, he said.
+
+The case was heard by eight justices, rather than the usual nine, since chief Justice John Roberts recused himself on the ground that he owns Microsoft stock.
+
+Read more: http://www.v3.co.uk/v3-uk/news/2077944/supreme-court-rules-microsoft-i4i-patent#ixzz1PUmjMi9B
+The V3 App store has games, downloads and more. Visit the store now.

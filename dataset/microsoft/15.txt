@@ -1,0 +1,15 @@
+Supreme Court Affirms High Standard of Proving Patents Invalid
+
+Today the Supreme Court upheld the Federal Circuit's rule that, in litigation, a patent may only be proved invalid by clear and convincing evidence. EFF filed an amicus brief in the case ¡V Microsoft Corp. v. i4i Limited Partnership ¡V supporting Microsoft's request that the standard for proving invalidity merely be by a preponderance of the evidence (more likely than not) rather than clear and convincing evidence (a high probability).
+
+Justice Sotomayor wrote the opinion rejecting Microsoft's request, which six Justices joined (Chief Justice Roberts was recused). Essentially, the Court declined to reach the policy considerations in favor of a lower standard of proof that EFF and other amici had argued ¡V that the lower standard would make it easier to invalidate bad patents ¡V and instead agreed with i4i that the caselaw established a common law rule of clear and convincing evidence, which 35 U.S.C. ¡±282 codified in 1952.
+
+For the reasons explained fully in EFF's brief (see pages 30-32), we disagree with the Court's analysis of the early cases (specifically, the RCA case). We argued that those earlier cases did not establish a clear and convincing standard in all circumstances, but only when a defendant tries to relitigate a patent's validity using evidence that was already unsuccessfully used in an earlier case. Unfortunately, the Supreme Court did not agree.
+
+The Court also declined to adopt a higher standard of proof in the more narrow circumstance where the evidence before the jury was not before the Patent Office. However, in those situations, the Court said that a jury instruction might be appropriate:
+
+    Simply put, if the PTO did not have all material facts before it, its considered judgment may lose significant force. Cf. KSR, 550 U. S., at 427. And, concomitantly, the challenger¡¦s burden to persuade the jury of its invalidity defense by clear and convincing evidence may be easier to sustain. In this respect, although we have no occasion to endorse any particular formulation, we note that a jury instruction on the effect of new evidence can, and when requested, most often should be given. 
+
+Microsoft did not ask for such an instruction in this case, so there was nothing to remand. Yet this language is perhaps the best piece of news in the opinion. In a previous case where Microsoft did request such an instruction and the district court refused to give it, the Federal Circuit affirmed the refusal to give the instruction ¡V something that is probably now incorrect.
+
+While today's decision is disappointing, EFF will continue in its efforts to level the playing field in patent litigation.

@@ -1,0 +1,41 @@
+Software firm wins major patent victory over Microsoft 
+
+TORONTO ¡X Canadian software company i4i Inc. sees more growth ahead now that a ¡§cloud¡¨ has been lifted from its business with a U.S. Supreme Court decision that confirms its $290-million US patent victory over Microsoft Corp.
+
+¡§It¡¦s hard to expand and grow your business when people feel it¡¦s all under a cloud,¡¨ i4i chair Louden Owen said Thursday.
+
+¡§Now we think the fields are open and we can plow ahead,¡¨ Owen said from Toronto. ¡§So in terms of the validity of our patent, the case is closed.¡¨
+
+Now i4i will be able to promote and sell its technology saying that it has been validated by the U.S. Supreme Court, he said.
+
+The landmark decision has implications for the patent world because it essentially upholds existing U.S. patent law, which is used for many of the world¡¦s patents.
+
+¡§It¡¦s one of the most important business cases the U.S. Supreme Court has decided in decades,¡¨ Owen said.
+
+¡§The unanimous decision has very clearly confirmed the current state of the law and it has added a great deal of certainty to the business community,¡¨ he said of upholding patents.
+
+The U.S. high court upheld an earlier ruling that found the world¡¦s largest software maker wilfully infringed on i4i¡¦s patent in its Microsoft Word software. Microsoft was ordered to stop selling versions containing the infringing technology and to pay compensation to i4i.
+
+¡§Microsoft¡¦s appeal and, along with their gang of supporters who decided they would file on their behalf, were taking great strides to try to throw a lot of uncertainty into the system,¡¨ Owen said.
+
+Several high-powered companies supported Microsoft in its battle against i4i, including Apple, Google and Cisco Systems.
+
+Toronto-based i4i sued Microsoft in 2007, saying it owned the technology behind a tool that gave Word 2003 and Word 2007 users an improved way to edit XML, which is computer code that tells the program how to interpret and display a document¡¦s contents.
+
+Microsoft now sells versions of Word that do not contain the technology in question, but said it would like changes to the patent system.
+
+¡§While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system and protect inventors who hold patents representing true innovation,¡¨ Microsoft said in a statement.
+
+While many of i4i¡¦s customers are pharmaceutical companies such as Bayer, Merck and Nexgen Pharma, the company also supplied technology to the U.S. patent office earlier this decade for an overhaul of its website for patent submissions.
+
+Owen said he expects to get a cheque from Microsoft within 15 days.
+
+Microsoft asked the U.S. Supreme Court to erase the judgment against, arguing the trial judge used the wrong standard in instructing the jury that came up with the award.
+
+The software giant said a jury should determine a patent¡¦s validity by a ¡§preponderance¡¨ of the evidence instead of the ¡§clear and convincing¡¨ evidence standard instructed by the judge.
+
+The Supreme Court said the ¡§clear and convincing¡¨ standard was the correct one.
+
+Justice Sonia Sotomayor, who wrote the court¡¦s opinion, said the courts have interpreted the law the same way for 30 years. During this period, Congress has often amended the patent law, she said.
+
+During the trial, lawyers for i4i and the Obama administration had argued that there was little point in granting patents to inventors if corporations can simply infringe upon them with impunity.

@@ -1,0 +1,33 @@
+Microsoft loses patent battle with Canada's i4i
+
+has lost an appeal to the US supreme court over a $290m (¢G178m) award made against it in a patent dispute with the Canadian company i4i, which claimed a version of Microsoft Word infringed a patented method for editing documents.
+
+The decision means companies challenging patents being used in court battles will have to provide convincing proof that a patent is invalid if they want to have it set aside. Microsoft had sought to weaken the level of proof needed.
+
+i4i sued Microsoft in 2007, claiming infringement of a patent relating to XML in documents by Word 2007 (and products that included it, such as Office 2007). At a subsequent jury trial, Microsoft had argued the patent was invalid; the jury rejected that claim. It then appealed to the supreme court, saying the trial court's requirements had put an "overly demanding" standard to its invalidity defence: it had had to prove its defence by "clear and convincing" evidence, rather than the more relaxed "preponderance of evidence". The difference would be similar to a criminal v civil standard of proof, between "beyond all reasonable doubt" and "balance of probability".
+
+The decision will have repercussions in cases where patents are the key element of the case ¡V which will affect everyone from smartphone manufacturers to app developers.
+
+The question in the case (Microsoft Corp v i4i Limited Partnership, No. 10-290) was what Congress had meant on that point in the Patent Act of 1952. That only says that patents are "presumed valid" and "the burden of establishing invalidity" rests "on the party asserting such invalidity." That in itself doesn't say what level of proof is needed ¡V and whether it is the criminal-like "beyond reasonable doubt" or the civil "balance of evidence" ¡V whether one side or the other was more likely to be correct.
+
+In the adjudication, Justice Benjamin N Cardozo of the nine-member court wrote that patents' legitimacy was "not to be overthrown except by clear and cogent evidence".
+
+i4i sued Microsoft in 2007, alleging that its method for applying XML to documents had been infringed by a version of Microsoft Word. It eventually obtained an injunction that prevented the sale of some versions of the program in the US. It denied the location for the original trial was chosen because it would favour patent litigants: the judge in the case had studied as a computer programmer in school.
+
+In March 2010, a circuit court ruled Microsoft had "willfully infringed" i4i's patent. In July, the validity of the patent was confirmed by the US Patent Office.
+
+i4i, set up in 1993 by Michel Vulpe, has provided systems for the US Patent Office ("ironic, in the circumstances" remarked Owen), US air force and a number of pharmaceutical companies including Novo Nordisk and Bayer. Basically it takes huge amounts of unstructured data and puts XML wrappers around it, making it useful and usable. The company has repeatedly insisted that it is not a "patent troll" and that it creates real value through the application of its systems for clients.
+
+The two companies had held discussions in 2000 and 2001 about XML and custom XML but no business emerged. Microsoft subsequently began using structured XML in Word, infuriating i4i.
+
+Loudon Owen, chairman of i4i, said: "Microsoft tried to gut the value of patents by introducing a lower standard for invalidating patents. It is now 100% clear that you can only invalidate a patent based on 'clear and convincing' evidence."
+
+He called the ruling "one of the most significant business cases the court has decided in decades. Affirmation of the federal circuit on a ruling in favour of patent holders is virtually unprecedented. While this ruling maintains the prevailing standard, the innovation community must be ever-vigilant to defend its property rights."
+
+(The Guardian ran a full interview with Owen in January 2010 when it won the appeals court ruling against Microsoft.)
+
+Microsoft said the patent was invalid under a provision of the patent laws that removes protection for inventions that had been on sale in the US for more than a year before the patent application was filed. It transpired that i4i had indeed sold another program more than a year before it submitted its patent application, and the examiner had not considered whether the older program contained the main innovation in the later one before issuing the patent.
+
+The supreme court did offer a method for future accusations of patent invalidity. Sonia Sotomayor, the second-newest judge, wrote that though courts should require "clear and convincing" evidence that a patent was invalid, the Patent Office's decision to grant one "may lose significant force" where it "did not have all material facts before it." That means, she continued, that "the challenger's burden to persuade the jury of its invalidity defence by clear and convincing evidence may be easier to sustain."
+
+Only eight of the nine justices deliberated the case. Chief Justice John G Roberts Jr did not: in a financial disclosure form issued last month, he noted that his family owned $100,000 to $250,000 in Microsoft shares in 2010.

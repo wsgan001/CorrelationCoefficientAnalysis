@@ -1,0 +1,42 @@
+Supreme Court unanimously reaffirms clear and convincing evidence standard for patent invalidity
+
+In its decision in Microsoft Corp. v. i4i Limited Partnership, No. 10-290 (June 9, 2011), the U.S. Supreme Court unanimously affirmed the Federal Circuit's long-established precedent that in all patent infringement cases, an accused infringer must prove patent invalidity by clear and convincing evidence. The Court rejected Microsoft's argument that the heightened burden was particularly inappropriate in cases where validity is challenged based on prior art not considered by the USPTO. In so doing, the Court interpreted the statutory presumption of patent validity codified in 1952 as 35 U.S.C. ¡± 282 in view of its common-law precedent, most significantly Justice Cardozo's 1935 decision in Radio Corp. of America v. Radio Engineering Laboratories, Inc., 293 U.S. 1 (RCA).
+
+The Court's decision is viewed by many as a clear victory for patent holders and maintains the status quo, as juries will continue to be instructed on the heightened evidentiary burden faced by accused infringers. Beyond this, while the Court declined to dictate the specifics of jury instructions in cases where the accused infringer asserts that the art relied on was not considered by the USPTO, it provided some guidance. However, this leaves considerable discretion to the lower courts to craft appropriate jury instructions to account for such situations.
+
+Case Background
+Microsoft's challenge to the evidentiary burden associated with the defense of patent invalidity arose from a jury verdict for infringement against Microsoft in 2009 that was affirmed by the Federal Circuit.
+
+i4i sued Microsoft in 2007 for infringement of U.S. Patent No. 5,787,449 in the Eastern District of Texas. The patent relates to markup languages technology, and i4i alleged that Microsoft Word's XML editor infringed the patent. Microsoft argued at trial that the patent was invalid under 35 U.S.C. ¡± 102(b) due to on-sale bar because the invention was embodied in software sold in the United States by i4i more than a year before the application for the patent was filed. Microsoft argued that because the USPTO had not considered the prior sale of software, Microsoft's burden of proving invalidity should be only a preponderance of the evidence. Microsoft's proposed jury instruction was rejected based on the settled law requiring that invalidity be established by clear and convincing evidence. The jury found for i4i, awarding $200 million in damages, and the district court subsequently entered a judgment of $290 million, including enhanced damages, interest, and post-verdict damages. Additionally, the district court entered an injunction against the sale of certain versions of Word. See i4i Ltd. P'ship v. Microsoft Corp., 670 F. Supp. 2d 568 (E.D. Tex. 2009). Microsoft appealed. See http://bit.ly/fxvbQf.
+
+A three-judge panel of the Federal Circuit affirmed. 598 F.3d 831 (Fed. Cir. 2010) (superseding prior opinion at 589 F.3d 1246 (Fed. Cir. 2009)). See Foley's Legal News Alert: Intellectual Property from December 23, 2009 (http://bit.ly/ft0Q7p). The appellate court found no fault with the jury instruction requiring that invalidity be proven by clear and convincing evidence. Microsoft's petition for certiorari was granted on November 29, 2010.
+
+Justice Sotomayor issued the opinion of the Court, which was joined by six of the seven other justices who presided over the case: Justices Scalia, Kennedy, Ginsberg, Breyer, Alito, and Kagan. Justice Breyer also filed a separate concurring opinion joined by Justices Scalia and Alito. Justice Thomas concurred in the judgment. Chief Justice Roberts did not participate.
+
+The Court rejected Microsoft's principal argument that in all cases invalidity needs to be proven only by a preponderance of the evidence. The Court similarly rejected Microsoft's alternate argument that the preponderance standard should apply at least when an invalidity defense is based on prior art that was not considered by the USPTO in the examination process.
+
+The Court's analysis was driven by its consideration of the language of 35 U.S.C. ¡± 282 (¡§A patent shall be presumed valid. ¡K The burden of establishing invalidity of a patent or any claim thereof shall rest on the party asserting such invalidity¡¨) through the lens of the common law that preceded it: ¡§[B]y stating that a patent is ¡¥presumed valid,' ¡± 282, Congress used a term with a settled meaning in the common law.¡¨
+
+As was hinted at during oral argument, the Court was swayed by Justice Cardozo's opinion in the RCA case, which it characterized as ¡§authoritative¡¨ on the issue:
+
+The Court thus concluded that by the time Congress acted in 1952, the presumption of validity ¡§encompassed not only an allocation of the burden of proof but also an imposition of a heightened standard of proof.¡¨ The Court followed the ¡§general rule that a common-law term comes with its common-law meaning.¡¨ As a result, the Court held that absent indication in the statute otherwise, it was obligated to presume that Congress intended to incorporate the heightened standard of proof when it enacted ¡± 282.
+
+The Court's common-law approach to its statutory construction analysis also led it to dismiss Microsoft's alternative argument that the preponderance standard should be applied in cases where the prior art at issue was not considered by the USPTO. Finding nothing in its pre-1952 case law supporting a hybrid standard of proof, nor anything in the statute indicating that Congress intended such a ¡§fluctuating standard,¡¨ the Court noted that the pre-1952 cases referred to a ¡§weakened¡¨ or ¡§dissipated¡¨ presumption of validity in these circumstances: ¡§We understand these cases to reflect the same commonsense principle that the Federal Circuit has recognized throughout its existence ¡X namely, that new evidence supporting an invalidity defense may ¡¥carry more weight' in an infringement action than evidence previously considered by the PTO.¡¨
+
+However, while the Court declined to ¡§endorse any particular formulation,¡¨ the Court did provide guidance on how jury instructions might be used to address situations where the prior art relied on was not considered by the USPTO:
+
+Finally, the Court declined to address the policy arguments raised by the parties and amici, but did note that Congress has done nothing to amend the statute to address the burden of proof, despite the Federal Circuit decisions applying the clear and convincing evidence standard since 1984, and other revisions to ¡± 282.
+
+Justice Breyer's Concurrence
+
+Justice Breyer wrote separately to advocate an approach he discussed during oral argument to disassociate issues of fact from issues of law decided by the court. In particular, he emphasized that ¡§the evidentiary standard of proof applies to questions of fact and not to questions of law.¡¨ Thus, the ¡§strict standard of proof¡¨ upheld here ¡§has no application¡¨ to such legal issues as:
+
+Justice Breyer urged courts to keep the ¡§clear and convincing¡¨ standard within its proper legal bounds by separating factual and legal aspects of an invalidity claim in order to ¡§increase the likelihood that discoveries or inventions will not receive legal protection where none is due.¡¨
+
+Justice Thomas's Concurrence
+
+Justice Thomas wrote a separate opinion concurring in the judgment, but disagreed that Congress codified a standard of proof in ¡± 282. He based his concurrence solely on the basis that the clear and convincing evidence standard derives from the common law, which ¡§has never been overruled by this Court or modified by Congress.¡¨
+
+Conclusion
+
+The decision should be welcome to most patentees and is reflective of the Supreme Court's recent pro-patentee approach that started with its Bilski decision last year, wherein the Court declined to adopt a stringent standard for patent-eligible subject matter. What remains to be seen is how the decision may play out in certain types of patent litigation involving non-competitive entities, whether the impact will vary among industries, whether the ruling impacts the timing or strategic considerations in filing summary judgment motions, and how patent juries will be instructed.

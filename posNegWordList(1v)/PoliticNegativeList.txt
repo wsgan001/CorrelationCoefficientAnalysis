@@ -1,0 +1,10 @@
+campaign
+opposite
+rival
+fraud
+accusation
+contest
+lost
+beat
+debate
+defeat

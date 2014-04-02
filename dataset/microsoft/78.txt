@@ -1,0 +1,44 @@
+Supreme Court Rules Microsoft Must Pay in Patent Case
+
+Read more: http://online.wsj.com/article/SB10001424052702304259304576375451677652800.html#ixzz1PUvGzOOT
+
+
+WASHINGTON¡XThe U.S. Supreme Court Thursday unanimously upheld a roughly $300 million patent-infringement verdict against Microsoft Corp., rejecting the software maker's attempts to lower protections for challenged patents.
+
+Read more: http://online.wsj.com/article/SB10001424052702304259304576375451677652800.html#ixzz1PUvMxIsC
+
+A federal jury made the award to i4i Inc. after finding that Microsoft's Word software program infringed a patent held by the Toronto technology company for editing elements of complex documents. Microsoft had argued that i4i's patent never should have been awarded at all, but jurors found that the Redmond, Wash., company failed to prove its case by "clear and convincing evidence," which the trial judge told them was necessary to invalidate a patent.
+
+Microsoft urged the Supreme Court to lower that standard, at least in some circumstances, to a "preponderance of evidence," which is enough to prevail in most civil lawsuits.
+
+Microsoft's hopes were stoked by a stream of recent Supreme Court decisions weakening patent protections. The rulings have come amid academic and industry criticism that a specialized court that hears all patent appeals, the U.S. Court of Appeals for the Federal Circuit, has stifled innovation by giving patent holders too much control over rapidly evolving technologies.
+
+But this time, the Supreme Court affirmed a patent decision from the Federal Circuit, which had upheld the verdict against Microsoft.
+
+Writing for the court, Justice Sonia Sotomayor said the result was dictated by a unanimous 1934 opinion by Justice Benjamin Cardozo.
+
+Summarizing patent cases tracing back to the 19th century, Justice Cardozo wrote that an alleged infringer who counters that a patent is invalid must present "more than a dubious preponderance" of evidence to prove his case.
+
+Justice Sotomayor wrote that Congress implicitly codified that standard in the Patent Act of 1952, and that the Federal Circuit had uniformly applied it for decades.
+
+Microsoft had contended that the Cardozo opinion left open certain exceptions, such as when the challenge depended on new evidence that patent examiners had never seen.
+
+"Squint as we may, we fail to see the qualifications that Microsoft purports to identify in our cases," Justice Sotomayor wrote.
+
+However, she said that if the patent office "did not have all the material facts before it," its decision to award a patent "may lose significant force," and it could be easier to persuade a jury of a patent's invalidity by clear and convincing evidence.
+
+A patent overhaul bill, the America Invents Act, passed the Senate by a 95-5 vote in March and now is pending in the House. Among other provisions, the bill permits third parties to challenge patents, even after they are granted, through administrative proceedings at the Patent and Trademark Office.
+
+Robert Merges, a law professor at the University of California, Berkeley, said the challenge provision in the bill "just became a little more important" in light of the high court's ruling. "It's a cheaper alternative to litigation, and some people think it's a better forum for trying to invalidate patents," he said.
+
+The Microsoft case had split the business community, with drug makers and manufacturers such as 3M Co. and Johnson & Johnson arguing that the patent-law change sought by Microsoft would harm innovation by inventors. Technology companies, however, face a stream of lawsuits involving patent claims, prompting Google Inc., Verizon Communications Inc. and others to back Microsoft.
+
+Michel Vulpe, founder of i4i and co-inventor of the software at issue, said the ruling was "an important stepping stone" for the Canadian company. "Now we can continue to build our company the way we intended," he said in a statement.
+
+Microsoft said it was disappointed in the ruling. "While the outcome is not what we had hoped for, we will continue to advocate for changes to the law that will prevent abuse of the patent system," a company spokesman said in a statement.
+
+The lower court also barred Microsoft from using i4i's invention. Microsoft said it complied without suspending sales of Word by modifying the products. Word 2010, a newer version of the software, doesn't contain the technology at issue, the company has said.
+
+Chief Justice John Roberts, who owned Microsoft stock as of the end of 2010, didn't participate in the case.
+
+Read more: http://online.wsj.com/article/SB10001424052702304259304576375451677652800.html#ixzz1PUvOltmB

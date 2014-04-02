@@ -1,0 +1,25 @@
+The new standard for justice in patent law is i4i 
+
+A small technology company that began life in a second-floor office next to a shiatsu massage parlour in downtown Toronto is basking in the glory of a high-profile victory in a four-year patent dispute with software giant Microsoft Corp.
+
+The case, which ended Thursday with a final verdict from the top court in the United States, isn¡¦t notable only for its David-versus-Goliath nature, and the nearly $300-million in damages that comes with it, but also because of how it reinforces the ability of small patent-holders to battle industry giants.
+
+The U.S. Supreme Court ruled in favour of i4i in a patent infringement case filed against Microsoft in 2007 by the company run by founder Michel Vulpe and chairman Loudon Owen. The case, related to technology that deals with ways of representing and storing meta-data, or information about documents and files, had worked its way up the appeals ladder, followed widely because of the potential ramifications for patents.
+
+The court ruling affirms previous court decisions, and paves the way for i4i to collect the almost $300-millionin damages. It also keeps in place the current patent system in the U.S., where those looking to have a patent declared invalid must present ¡§clear and convincing¡¨ proof as to why it should be tossed out.
+
+The case has significant ramifications for the technology sector, said patent lawyer Barry Sookman of McCarthy Tetrault in Toronto. The decision affirms the rights of patent holders, both big and small, and will affect everyone from small companies to giants such as Apple Inc., as well as companies known as ¡§patent trolls,¡¨ which buy up various patents to assert them against large corporations, Mr. Sookman said.
+
+¡§This is going to make it more difficult to second guess the patent office¡¦s decision to grant a patent,¡¨ said Mr. Sookman, one of Canada¡¦s top technology lawyers. ¡§The court refused to overturn a standard that¡¦s been enforced in law for decades, and that was a standard that basically presumes the validity of patents issued by the patent office and requires a very high standard of proof, clear and convincing proof ¡K It¡¦s a very pro-patentee decision.¡¨
+
+Indeed, Mr. Sookman said the case backs up the power of small patent holders such as i4i. ¡§It shows that even a small Canadian company can win against an international behemoth,¡¨ he added, noting that the decision may also act as a further incentive for companies to patent their technologies.
+
+The chairman of i4i, Loudon Owen, said it was ¡§extremely gratifying¡¨ that the court¡¦s decision was unanimous, adding that ¡§it has also become one of the most important business-law cases decided by the Supreme Court in decades.¡¨
+
+The men behind i4i were an interesting tag team to begin with ¡V a computer programmer and an executive with an affinity for boxing. Together, they built i4i and battled Microsoft all the way to the top.
+
+The company got its start in 1993 when Mr. Vulpe moved into an office in Toronto next to a Shiatsu massage clinic where his girlfriend worked. Mr. Vulpe, who toiled on software solutions for corporate clients with vast databases and worked with his dog Jack by his side, eventually tired of the task at hand. He decided to make one piece of software that would do the database managing work for him.
+
+In 1994, he applied to patent what he came up with, and partnered with Loudon Owen, the venture capitalist co-founder of McLean Watson Capital, to develop the software and take it to market. At that point, Mr. Owen had just returned from the United Kingdom, where he worked for a software company that he and a partner had seeded in the late 1980s and then sold ¡V to Microsoft.
+
+Mr. Owen has an intriguing past: He comes from a family that founded a commodities business in Indonesia in 1820, trading in tea and spices, among other things. He also loves to box, once punching his way to become Ontario¡¦s intercollegiate boxing champion.

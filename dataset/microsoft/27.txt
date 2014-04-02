@@ -1,0 +1,24 @@
+Microsoft loses patent evidence challenge
+
+WASHINGTON, June 9 (UPI) -- Microsoft Corp. suffered a major defeat Thursday in the U.S. Supreme Court, which ruled unanimously in favor of a high standard for proving a patent invalid.
+
+The U.S. software giant had wanted the high court to overturn a $290 million patent infringement verdict against it.
+
+Toronto-based i4i Limited Partnership owns the patent on editing custom XML, a computer language. The company sued Redmond, Wash.-based Microsoft, alleging the XML editor in some versions of Microsoft Word infringed on the patent.
+
+A federal jury in Texas rejected Microsoft's argument that the patent was invalid and awarded the patent-holder damages. Microsoft had argued that to prove a patent invalid, a challenger need only show invalidity by a "preponderance of the evidence," not by "clear and convincing evidence."
+A full list of court papers from the case between i4i Limited Partnership and Microsoft
+
+The U.S. appeals court in Washington upheld the jury's verdict and higher standard, but added the verdict "does not affect copies of Word sold or licensed before the injunction (against its sale) goes into effect. Thus, users who bought or licensed Word before the injunction becomes effective will still be able to use the infringing custom XML editor and receive technical support from Microsoft.
+
+"After its effective date, the injunction prohibits Microsoft from selling, offering to sell, importing or using copies of Word with the infringing custom XML editor. Microsoft is also prohibited from instructing or assisting new customers in the custom XML editor's use."
+
+Microsoft then asked the U.S. Supreme Court for review. The high court heard argument April 18, and Thursday affirmed the appeals court ruling.
+
+Federal law "requires an invalidity defense to be proved by clear and convincing evidence," Justice Sonia Sotomayor said in the prevailing opinion. "The court rejects Microsoft's contention that a defendant need only persuade the jury of a patent invalidity defense by a preponderance of the evidence. Where Congress has prescribed the governing standard of proof, its choice generally controls."
+
+The law also puts the burden of proving validity or invalidity on the challenger, she said.
+
+All of the other justices either signed on to her opinion or joined in the judgment.
+
+Read more: http://www.upi.com/Top_News/US/2011/06/09/Microsoft-loses-patent-evidence-challenge/UPI-50851307631053/#ixzz1PUosvelw

@@ -1,0 +1,33 @@
+Microsoft Loses Final Appeal in $290 Million Patent Case
+
+WASHINGTON ¡X The Supreme Court on Thursday unanimously upheld a $290 million award against Microsoft in a patent dispute. The case was brought by a Canadian software company, i4i Limited Partnership, which said a version of Microsoft Word had infringed its patented method for editing documents. 
+
+At the trial, the jury rejected Microsoft¡¦s argument that the patent was invalid. Before the Supreme Court, Microsoft said the trial court had subjected its invalidity defense to an overly demanding standard.
+
+Microsoft had been required to prove its defense by clear and convincing evidence, and the company said it should have only needed to meet the more relaxed standard of a preponderance of the evidence. Under that standard, Microsoft would have had to prove only that it was more likely than not that the patent was invalid.
+
+The question in the case (Microsoft Corporation v. i4i Limited Partnership, No. 10-290) was what Congress meant on that point in the Patent Act of 1952, which said only that patents are ¡§presumed valid¡¨ and that ¡§the burden of establishing invalidity¡¨ rests ¡§on the party asserting such invalidity.¡¨
+
+Though the law did not expressly specify a standard of proof, Justice Sonia Sotomayor, writing for the court, said Congress must have codified the general understanding about the appropriate standard, one reflected in a 1934 Supreme Court decision. The presumption that patents were valid, Justice Benjamin N. Cardozo wrote, was ¡§not to be overthrown except by clear and cogent evidence.¡¨
+
+The Canadian firm¡¦s patent was for a method of editing computer documents that stored the contents of documents separately from codes for their structure. In 2007, it sued Microsoft, arguing that Microsoft Word had infringed the patent.
+
+Microsoft said the patent was invalid under a provision of the patent laws that bars protection for inventions that had been on sale in the United States for more than a year before the patent application was filed.
+
+The Canadian firm had sold another software program more than a year before it submitted its application, and the patent examiner had not considered whether the older program contained the main innovation in the later one before issuing the patent.
+
+Though the Supreme Court rejected the argument that the more lenient preponderance standard should apply across the board in invalidity challenges, it was more sympathetic to Microsoft¡¦s fallback position. The company argued that the lower standard should at least apply where the factual question in dispute had not been considered before the patent was issued.
+
+Here the court sketched out a roadmap for future defendants seeking to assert an invalidity defense in similar circumstances.
+
+Though courts should continue to require ¡§clear and convincing¡¨ evidence of invalidity in name, Justice Sotomayor wrote, the decision to issue a patent ¡§may lose significant force¡¨ where the patent office ¡§did not have all material facts before it.¡¨
+
+That means, she continued, that ¡§the challenger¡¦s burden to persuade the jury of its invalidity defense by clear and convincing evidence may be easier to sustain.¡¨ Jury instructions, Justice Sotomayor said, may take account of these points.
+
+In a concurrence, Justice Stephen G. Breyer suggested additional limitations. The requirement of clear and convincing proof, he wrote, applies only to factual questions typically decided by juries, such as when a product was first sold.
+
+Legal questions decided by judges, on the other hand, are not subject to the standard. Among such legal questions, he wrote, are whether inventions are novel or obvious.
+
+Justices Antonin Scalia and Samuel A. Alito Jr. joined Justice Breyer¡¦s concurrence.
+
+Chief Justice John G. Roberts Jr. did not participate in the case. In a financial disclosure form issued last month, the chief justice reported that his family owned $100,000 to $250,000 in Microsoft shares last year. 

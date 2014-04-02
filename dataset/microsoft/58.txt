@@ -1,0 +1,15 @@
+Microsoft fined ¢G178m in patent dispute
+
+Microsoft has been hit with a whopping ¢G178 million fine for infringing a rival's patent. The US Supreme court threw out the software giant's appeal against the fine for infringing a small Canadian company's patent in word-processing program MS Word.
+
+Canadian company i4i kicked off in court in 2007 over an XML feature in Word 2003 and 2007. i4i owns a patent on structured XML, which makes large amounts of data more usable. The two companies had discussed structured XML in 2000 and 2001 but never agreed a deal, so when XML appeared in Word, i4i called in the lawyers.
+
+The original court decided Microsoft had wilfully infringed the patent. Microsoft argued the i4i patent was invalid, but as the defendant the burden of proof was on Microsoft, and when the case failed the company was slapped with a $290m fine.
+
+As part of the ruling, Microsoft was forced to stop selling copies of Word that contained the disputed feature.
+
+The company behind Windows and Word then took the case to the Supreme Court in an attempt to lower the standard of evidence required to prove patent infringement. Microsoft's original case failed because the legal team was unable to show that a clear majority of the evidence supported their argument, so argued for a change in patent law to require that only half the evidence needs to be in the defendant's favour.
+
+If you're confused, don't worry: just read that last sentence five times, spin around twice, and try to run in a straight line. Film yourself and upload it to YouTube for extra hilarity.
+
+Despite Microsoft's attempts to change the law, the highest court in the land wouldn't be swayed, and confirmed the fine today. ¢G178m may sound like a lot of change, but it's a mere operational expense for the company started by Bill Gates and Paul Allen in 1975: this year Microsoft has raked in more than ¢G10bn, including ¢G3.14bn in profit. 
